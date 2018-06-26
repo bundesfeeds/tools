@@ -2,6 +2,8 @@
   "name": "union-watch",
   "description": "A simple Watchdog APP",
   "dependencies": {
+    "@bundesfeeds/aowatch-client": "^1.0.0",
+    "@exmg/exmg-paper-datatable": "^3.0.1",
     "@polymer/polymer": "^3.0.0"
   },
   "devDependencies": {

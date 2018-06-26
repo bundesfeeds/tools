@@ -1,10 +1,9 @@
-import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
-import '@exmg/exmg-paper-datatable';
-import { Client } from '@bundesfeeds/aowatch-client/client.js';
+import { html, PolymerElement } from "../../node_modules/@polymer/polymer/polymer-element.js";
 /**
  * @customElement
  * @polymer
  */
+
 class UnionWatchApp extends PolymerElement {
   static get template() {
     return html`
@@ -16,6 +15,7 @@ class UnionWatchApp extends PolymerElement {
       <h2>Hello [[prop1]]!</h2>
     `;
   }
+
   static get properties() {
     return {
       prop1: {
@@ -24,6 +24,7 @@ class UnionWatchApp extends PolymerElement {
       }
     };
   }
+
 }
 
 window.customElements.define('union-watch-app', UnionWatchApp);
