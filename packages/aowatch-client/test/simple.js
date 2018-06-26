@@ -9,6 +9,14 @@ describe('client', function() {
       done();
     });
   })
+
+  it('does a constituencies request', (done)=>{
+    const client  = new Client();
+    client.parliament('hamburg', 'constituencies').then((res)=>{
+      done();
+    });
+  })
+
   it('does a subset', (done)=>{
     const client  = new Client();
     client.subset('hamburg', 'deputies', 'votes').then((res)=>{
