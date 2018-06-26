@@ -2,10 +2,23 @@ import { Client } from '../client';
 
 
 var assert = require('assert');
-describe('Array', function() {
-  describe('#indexOf()', function() {
-    it('should return -1 when the value is not present', function() {
-      assert.equal([1,2,3].indexOf(4), -1);
+describe('client', function() {
+  it('does a simple request', (done)=>{
+    const client  = new Client();
+    client.parliament('hamburg', 'deputies').then(()=>{
+      done();
     });
-  });
+  })
+  it('does a simple all request', (done)=>{
+    const client  = new Client();
+    client.allParliaments('hamburg', 'deputies').then(()=>{
+      done();
+    });
+  })
+  it('does a profile request', (done)=>{
+    const client  = new Client();
+    client.profile('Angela', 'Merkel').then(()=>{
+      done();
+    });
+  })
 });
