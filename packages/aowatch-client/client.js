@@ -1,4 +1,3 @@
-import "isomorphic-fetch"
 export class Client {
 
 	_fetch(url) {

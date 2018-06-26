@@ -1,5 +1,5 @@
 import { Client } from '../client';
-
+import "isomorphic-fetch"
 
 var assert = require('assert');
 describe('client', function() {
