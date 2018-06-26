@@ -1,0 +1,7 @@
+{
+  "name": "union-watch",
+  "short_name": "union-watch",
+  "description": "A simple Watchdog APP",
+  "start_url": "/",
+  "display": "standalone"
+}
