@@ -1,0 +1,4859 @@
+[
+	{
+			"vorname": "Angela",
+			"nachname": "Merkel",
+			"partei": "CDU",
+			"websiteurl": "https://www.angela-merkel.de/"
+	},
+	{
+			"vorname": "Dietmar",
+			"nachname": "Bartsch",
+			"partei": "DIELINKE",
+			"twitter": "DietmarBartsch",
+			"facebook": "DietmarBartschMdB",
+			"websiteurl": "http://www.dietmar-bartsch.de/",
+			"websiterssurl": "http://www.dietmar-bartsch.de/feed/"
+	},
+	{
+			"vorname": "Michel",
+			"nachname": "von Abercron",
+			"partei": "CDU",
+			"twitter": "mvabercron",
+			"websiteurl": "http://www.von-abercron.de/"
+	},
+	{
+			"vorname": "Doreis",
+			"nachname": "Achelwilm",
+			"partei": "DIELINKE",
+			"twitter": "doris_achelwilm",
+			"websiteurl": "http://www.doris-achelwilm.de/"
+	},
+	{
+			"vorname": "Grigorios",
+			"nachname": "Aggelidis",
+			"partei": "FDP",
+			"twitter": "aggelidis_fdp",
+			"facebook": "Aggelidis.Grigorios",
+			"websiteurl": "https://gaggelidis.2017.fdp.de/"
+	},
+	{
+			"vorname": "Gökay",
+			"nachname": "Akbulut",
+			"partei": "DIELINKE",
+			"twitter": "goekayakbulut",
+			"facebook": "gokay.akbulut.146",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/gokay-akbulut"
+	},
+	{
+			"vorname": "Stephan",
+			"nachname": "Albani",
+			"partei": "CDU",
+			"websiteurl": "https://stephan-albani.de/",
+			"websiterssurl": "http://stephan-albani.de/category/blog/feed/"
+	},
+	{
+			"vorname": "Renata",
+			"nachname": "Alt",
+			"partei": "FDP",
+			"twitter": "RenataAlt_MdB",
+			"websiteurl": "http://www.renata-alt.de/",
+			"websiterssurl": "http://www.renata-alt.de/rss_news.php"
+	},
+	{
+			"vorname": "Norbert Maria",
+			"nachname": "Altenkamp",
+			"partei": "CDU",
+			"websiteurl": "http://www.norbert-altenkamp.de/",
+			"websiterssurl": "http://www.norbert-altenkamp.de/feed/"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Altmaier",
+			"partei": "CDU",
+			"twitter": "peteraltmaier",
+			"facebook": "peter.altmaier",
+			"websiteurl": "https://peteraltmaier.de/"
+	},
+	{
+			"vorname": "Philipp",
+			"nachname": "Amthor",
+			"partei": "CDU",
+			"twitter": "Philipp_Amthor",
+			"websiteurl": "http://www.philipp-amthor.de/"
+	},
+	{
+			"vorname": "Luise ",
+			"nachname": "Amtsberg",
+			"partei": "GRÜNE",
+			"websiteurl": "http://luise-amtsberg.de/",
+			"websiterssurl": "http://luise-amtsberg.de/feed/"
+	},
+	{
+			"vorname": "Kerstin",
+			"nachname": "Andreae",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.kerstin-andreae.de/",
+			"websiterssurl": "http://www.kerstin-andreae.de/feed/"
+	},
+	{
+			"vorname": "Niels ",
+			"nachname": "Annen",
+			"partei": "SPD",
+			"twitter": "NielsAnnen",
+			"facebook": "nielsannen",
+			"websiteurl": "http://nielsannen.de"
+	},
+	{
+			"vorname": "Ingrid",
+			"nachname": "Arndt-Brauer",
+			"partei": "SPD",
+			"websiteurl": "http://www.arndt-brauer.de/"
+	},
+	{
+			"vorname": "Chrisine",
+			"nachname": "Aschenberg-Dungus",
+			"partei": "FDP",
+			"twitter": "cad59",
+			"websiteurl": "http://christine-aschenberg-dugnus.de/",
+			"websiterssurl": "http://christine-aschenberg-dugnus.de/feed/"
+	},
+	{
+			"vorname": "Artur",
+			"nachname": "Auerhammer",
+			"partei": "CSU",
+			"websiteurl": "https://www.artur-auernhammer.de/"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Aumer",
+			"partei": "CSU",
+			"twitter": "PeterAumer",
+			"websiteurl": "http://peter-aumer.de/"
+	},
+	{
+			"vorname": "Lisa",
+			"nachname": "Badum",
+			"partei": "GRÜNE",
+			"twitter": "badulrichmartha",
+			"websiteurl": "http://www.lisa-badum.de/",
+			"websiterssurl": "http://www.lisa-badum.de/feed/"
+	},
+	{
+			"vorname": "Heike",
+			"nachname": "Baehrens",
+			"partei": "SPD",
+			"websiteurl": "http://portal.heikebaehrens.de/"
+	},
+	{
+			"vorname": "Annalena",
+			"nachname": "Baerbock",
+			"partei": "GRÜNE",
+			"twitter": "ABaerbock",
+			"facebook": "abaerbock",
+			"websiteurl": "http://www.annalena-baerbock.de/"
+	},
+	{
+			"vorname": "Ulrike",
+			"nachname": "Bahr",
+			"partei": "SPD",
+			"twitter": "MdB_Ulrike_Bahr",
+			"facebook": "mdb.ulrike.bahr",
+			"websiteurl": "https://ulrike-bahr.de/",
+			"websiterssurl": "https://ulrike-bahr.de/news/rss/"
+	},
+	{
+			"vorname": "Dorothee",
+			"nachname": "Bär",
+			"partei": "CSU",
+			"twitter": "DoroBaer",
+			"websiteurl": "http://www.dorothee-baer.de/",
+			"websiterssurl": "http://www.dorothee-baer.de/feed/"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Bareiß",
+			"partei": "CDU",
+			"twitter": "Thomas_Bareiss",
+			"websiteurl": "http://www.thomas-bareiss.de/"
+	},
+	{
+			"vorname": "Katarina",
+			"nachname": "Barley",
+			"partei": "SPD",
+			"websiteurl": "http://www.katarina-barley.de/",
+			"websiterssurl": "http://www.katarina-barley.de/feed/"
+	},
+	{
+			"vorname": "Doris",
+			"nachname": "Barnet",
+			"partei": "SPD",
+			"websiteurl": "https://doris-barnett.de/",
+			"websiterssurl": "https://doris-barnett.de/feed/"
+	},
+	{
+			"vorname": "Simone",
+			"nachname": "Barrientos",
+			"partei": "DIELINKE",
+			"twitter": "SBarrientosK",
+			"facebook": "simonebarrientosseite",
+			"websiteurl": "https://simone-barrientos.de/",
+			"websiterssurl": "https://simone-barrientos.de/feed/"
+	},
+	{
+			"vorname": "Norbert",
+			"nachname": "Barthle",
+			"partei": "CDU",
+			"websiteurl": "http://barthle-mdb.de/"
+	},
+	{
+			"vorname": "Mathias",
+			"nachname": "Bartke",
+			"partei": "SPD",
+			"websiteurl": "http://matthias-bartke.de/",
+			"websiterssurl": "http://matthias-bartke.de/feed/"
+	},
+	{
+			"vorname": "Sören",
+			"nachname": "Bartol",
+			"partei": "SPD",
+			"websiteurl": "http://www.bartol.de/"
+	},
+	{
+			"vorname": "Bärbel",
+			"nachname": "bas",
+			"partei": "SPD",
+			"twitter": "baerbelbas",
+			"facebook": "baerbel.bas",
+			"websiteurl": "https://www.baerbelbas.de/",
+			"websiterssurl": "https://www.baerbelbas.de/?format=feed&type=atom"
+	},
+	{
+			"vorname": "Nicole",
+			"nachname": "Bauer",
+			"partei": "FDP",
+			"facebook": "bauer.nicole.fdp",
+			"websiteurl": "http://fdp-nicole-bauer.de/",
+			"websiterssurl": "http://fdp-nicole-bauer.de/feed/"
+	},
+	{
+			"vorname": "Bernd",
+			"nachname": "Baumann",
+			"partei": "AFD",
+			"facebook": "Dr.Bernd.Baumann",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/dr-bernd-baumann"
+	},
+	{
+			"vorname": "Margarete",
+			"nachname": "Bause",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.margarete-bause.de/"
+	},
+	{
+			"vorname": "Danyal",
+			"nachname": "Bayaz",
+			"partei": "GRÜNE",
+			"twitter": "DerDanyal",
+			"facebook": "DanyalBayaz",
+			"websiteurl": "http://www.bayaz.de/"
+	},
+	{
+			"vorname": "Canan",
+			"nachname": "Bayram",
+			"partei": "GRÜNE",
+			"twitter": "LieblingXhain",
+			"websiteurl": "http://bayram-gruene.de/"
+	},
+	{
+			"vorname": "Jens",
+			"nachname": "beeck",
+			"partei": "FDP",
+			"facebook": "jensbeeck.de",
+			"websiteurl": "http://jens-beeck.de/start/"
+	},
+	{
+			"vorname": "Olaf",
+			"nachname": "In der Beek",
+			"partei": "FDP",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/olaf-der-beek"
+	},
+	{
+			"vorname": "Nicola",
+			"nachname": "Beer",
+			"partei": "FDP",
+			"twitter": "nicolabeerfdp",
+			"websiteurl": "https://www.nicola-beer.de/"
+	},
+	{
+			"vorname": "Maik",
+			"nachname": "Beermann",
+			"partei": "CDU",
+			"twitter": "MaikBeermann ‏",
+			"facebook": "Beermann.Maik",
+			"websiteurl": "https://www.maik-beermann.de/",
+			"websiterssurl": "https://www.maik-beermann.de/feed/"
+	},
+	{
+			"vorname": "Manfred",
+			"nachname": "Behrens",
+			"partei": "CDU",
+			"twitter": "Manfredbehrens",
+			"facebook": "manfred.behrens.5",
+			"websiteurl": "http://www.manfredbehrens.de/"
+	},
+	{
+			"vorname": "Veronika",
+			"nachname": "Bellmann",
+			"partei": "CDU",
+			"websiteurl": "http://www.veronika-bellmann.de/",
+			"websiterssurl": "https://www.epenportal.de/101628/rss-feed.xml"
+	},
+	{
+			"vorname": "Sybille",
+			"nachname": "Benning",
+			"partei": "CDU",
+			"twitter": "SybilleBenning",
+			"websiteurl": "http://www.sybille-benning.de/"
+	},
+	{
+			"vorname": "Andre ",
+			"nachname": "Berghegger",
+			"partei": "CDU",
+			"facebook": "andre.berghegger",
+			"websiteurl": "http://www.andre-berghegger.de/"
+	},
+	{
+			"vorname": "Marc",
+			"nachname": "Bernhard",
+			"partei": "AFD",
+			"twitter": "MarcBernhardAfD",
+			"facebook": "MarcBernhardAfD",
+			"websiteurl": "http://www.marcbernhard.de/",
+			"websiterssurl": "https://marcbernhard.wordpress.com/feed/"
+	},
+	{
+			"vorname": "Melanie ",
+			"nachname": "Bernstein",
+			"partei": "CDU",
+			"facebook": "melaniebernstein.cdu",
+			"websiteurl": "http://www.melanie-bernstein.de/"
+	},
+	{
+			"vorname": "Christoph",
+			"nachname": "Bernstiel",
+			"partei": "CDU",
+			"twitter": "c_bernstiel",
+			"facebook": "bernstiel",
+			"websiteurl": "http://www.christoph-bernstiel.de/"
+	},
+	{
+			"vorname": "Lorenz Gösta",
+			"nachname": "Beutin",
+			"partei": "DIELINKE",
+			"twitter": "lgbeutin",
+			"facebook": "lgbeutin",
+			"websiteurl": "https://www.lorenz-goesta-beutin.de/"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Beyer",
+			"partei": "CDU",
+			"twitter": "PeterbeyerCDU",
+			"facebook": "peterbeyermdb",
+			"websiteurl": "http://www.peter-beyer.info/"
+	},
+	{
+			"vorname": "Marc",
+			"nachname": "Biadacz",
+			"partei": "CDU",
+			"twitter": "MBiadaczMdB",
+			"facebook": "MBiadacz",
+			"websiteurl": "https://www.marc-biadacz.de/"
+	},
+	{
+			"vorname": "Matern",
+			"nachname": "von Marschall",
+			"partei": "CDU",
+			"websiteurl": "http://www.matern-von-marschall.de",
+			"websiterssurl": "http://www.matern-von-marschall.de/feed/"
+	},
+	{
+			"vorname": "Steffen ",
+			"nachname": "Bilger",
+			"partei": "CDU",
+			"twitter": "steffenbilger",
+			"facebook": "steffen.bilger.cdu",
+			"websiteurl": "https://www.steffen-bilger.de/",
+			"websiterssurl": "https://www.steffen-bilger.de/feed/"
+	},
+	{
+			"vorname": "Lothar",
+			"nachname": "Binding",
+			"partei": "SPD",
+			"websiteurl": "http://lothar-binding.de/",
+			"websiterssurl": "http://lothar-binding.de/feed/"
+	},
+	{
+			"vorname": "Mathias W.",
+			"nachname": "Birkwald",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.matthias-w-birkwald.de/",
+			"websiterssurl": "https://www.matthias-w-birkwald.de/rss/pm.rss"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Bleck",
+			"partei": "AFD",
+			"facebook": "people/Andreas-Bleck/100007839046256",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/andreas-bleck"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Blesser",
+			"partei": "CDU",
+			"facebook": "peter.bleser.1",
+			"websiteurl": "http://www.peter-bleser.de/"
+	},
+	{
+			"vorname": "Heidrun",
+			"nachname": "Blum",
+			"partei": "DIELINKE",
+			"facebook": "bluhmheidrun",
+			"websiteurl": "http://www.heidrunbluhm.de/start/aktuelles/"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Boehringer",
+			"partei": "AFD",
+			"websiteurl": "http://www.pboehringer.com/",
+			"websiterssurl": "http://www.pboehringer.com/index.xml"
+	},
+	{
+			"vorname": "Norbert",
+			"nachname": "Brackmann",
+			"partei": "CDU",
+			"websiteurl": "http://www.norbert-brackmann.de/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Brand",
+			"partei": "CDU",
+			"websiteurl": "http://www.michael-brand.de/"
+	},
+	{
+			"vorname": "Mario",
+			"nachname": "Brandenburg",
+			"partei": "FDP",
+			"twitter": "BraFDP",
+			"facebook": "Bra.FDP",
+			"websiteurl": "https://mbrandenburg.2017.fdp.de/"
+	},
+	{
+			"vorname": "Jend",
+			"nachname": "brandenburg",
+			"partei": "FDP",
+			"twitter": "JBrandenburgFDP",
+			"websiteurl": "https://www.jens-brandenburg.de/"
+	},
+	{
+			"vorname": "Reinhard",
+			"nachname": "Brandl",
+			"partei": "CSU",
+			"twitter": "ReinhardBrandlMdB",
+			"websiteurl": "http://www.reinhard-brandl.de/"
+	},
+	{
+			"vorname": "Stephan",
+			"nachname": "Brandner",
+			"partei": "AFD",
+			"twitter": "Wahlalternativ1",
+			"facebook": "stephan.brandner",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/stephan-brandner"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Brandt",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/michel-brandt"
+	},
+	{
+			"vorname": "Franziska",
+			"nachname": "Brantner",
+			"partei": "GRÜNE",
+			"facebook": "fbrantner",
+			"websiteurl": "http://www.franziska-brantner.eu/"
+	},
+	{
+			"vorname": "Ralf",
+			"nachname": "Brausiepe",
+			"partei": "CDU",
+			"websiteurl": "http://www.ralf-brauksiepe.de/"
+	},
+	{
+			"vorname": "Helge",
+			"nachname": "Braun",
+			"partei": "CDU",
+			"twitter": "HBraun",
+			"websiteurl": "https://www.helge-braun.de/"
+	},
+	{
+			"vorname": "Jürgen ",
+			"nachname": "Braun",
+			"partei": "AFD",
+			"facebook": "braunafd",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/jurgen-braun"
+	},
+	{
+			"vorname": "Silvia",
+			"nachname": "Breher",
+			"partei": "CDU",
+			"facebook": "Silvia.Breher.CDU",
+			"websiteurl": "http://www.silvia-breher.de/"
+	},
+	{
+			"vorname": "Sebastian",
+			"nachname": "Brehm",
+			"partei": "CSU",
+			"twitter": "Brehm_inNBGNord",
+			"facebook": "sebastianbrehm.de",
+			"websiteurl": "http://www.csu-kandidaten.de/sebastian-brehm/"
+	},
+	{
+			"vorname": "Heike",
+			"nachname": "brehmer",
+			"partei": "CDU",
+			"twitter": "heikebrehmermdb",
+			"facebook": "heike.brehmer.14",
+			"websiteurl": "http://www.heike-brehmer.de/"
+	},
+	{
+			"vorname": "Leni",
+			"nachname": "Breymaier",
+			"partei": "SPD",
+			"websiteurl": "https://www.leni-breymaier.de/"
+	},
+	{
+			"vorname": "Ralph",
+			"nachname": "Brinkhaus",
+			"partei": "CDU",
+			"twitter": "rbrinkhaus",
+			"facebook": "ralph.brinkhaus",
+			"websiteurl": "http://www.ralph-brinkhaus.de/"
+	},
+	{
+			"vorname": "Carsten",
+			"nachname": "Brodesser",
+			"partei": "CDU",
+			"facebook": "dr.carsten.brodesser",
+			"websiteurl": "http://www.carsten-brodesser.de/"
+	},
+	{
+			"vorname": "Agnieszka",
+			"nachname": "Brugger",
+			"partei": "GRÜNE",
+			"twitter": "agnieszka_mdb",
+			"websiteurl": "https://www.agnieszka-brugger.de/"
+	},
+	{
+			"vorname": "Karl Heinz",
+			"nachname": "Brunner",
+			"partei": "SPD",
+			"facebook": "brunner.spd",
+			"websiteurl": "https://karlheinzbrunner.de/",
+			"websiterssurl": "https://karlheinzbrunner.de/news/rss/"
+	},
+	{
+			"vorname": "Bernd",
+			"nachname": "Buchholz",
+			"partei": "FDP",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/dr-bernd-buchholz"
+	},
+	{
+			"vorname": "Christine",
+			"nachname": "Buchholz",
+			"partei": "DIELINKE",
+			"twitter": "ch_buchholz",
+			"websiteurl": "http://christinebuchholz.de/",
+			"websiterssurl": "http://christinebuchholz.de/feed/"
+	},
+	{
+			"vorname": "Kartrin",
+			"nachname": "Budde",
+			"partei": "SPD",
+			"facebook": "buddekatrin",
+			"websiteurl": "http://www.katrin-budde.de/",
+			"websiterssurl": "http://www.katrin-budde.de/index.php?format=feed&type=rss"
+	},
+	{
+			"vorname": "Marcus",
+			"nachname": "Bühl",
+			"partei": "AFD",
+			"facebook": "marcus.buehl.afd",
+			"websiteurl": "https://www.afd.de/person/marcus-buehl/"
+	},
+	{
+			"vorname": "Birke",
+			"nachname": "Bull",
+			"partei": "DIELINKE",
+			"twitter": "Birke_Bull",
+			"facebook": "birkebullbischoff.dielinke",
+			"websiteurl": "http://www.birke-bull.de/politik/aktuell/"
+	},
+	{
+			"vorname": "Marco",
+			"nachname": "Bülow",
+			"partei": "SPD",
+			"twitter": "marcobuelow",
+			"facebook": "marco.buelow",
+			"websiteurl": "https://www.marco-buelow.de/",
+			"websiterssurl": "https://www.marco-buelow.de/feed/"
+	},
+	{
+			"vorname": "Burkert",
+			"nachname": "Martin",
+			"partei": "SPD",
+			"twitter": "BurkertMartin",
+			"facebook": "BurkertMartin",
+			"websiteurl": "https://martin-burkert.de/",
+			"websiterssurl": "https://martin-burkert.de/news/rss/"
+	},
+	{
+			"vorname": "Marco",
+			"nachname": "Buschmann",
+			"partei": "FDP",
+			"twitter": "marcobuschmann",
+			"facebook": "MarcoBuschmannFDP",
+			"websiteurl": "https://www.marco-buschmann.de/"
+	},
+	{
+			"vorname": "Karlheinz",
+			"nachname": "Busen",
+			"partei": "FDP",
+			"websiteurl": "https://www.karlheinz-busen.de/"
+	},
+	{
+			"vorname": "Matthias",
+			"nachname": "Büttner",
+			"partei": "AFD",
+			"websiteurl": "http://afd-lsa.de/www.matthias.buettner/"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Bystron",
+			"partei": "AFD",
+			"twitter": "bystronpetr",
+			"websiteurl": "http://www.petrbystron.de/",
+			"websiterssurl": "http://www.petrbystron.de/feed/"
+	},
+	{
+			"vorname": "Lars",
+			"nachname": "Castellucci",
+			"partei": "SPD",
+			"twitter": "larscastellucci",
+			"facebook": "larscastellucci",
+			"websiteurl": "https://www.lars-castellucci.de/",
+			"websiterssurl": "https://www.lars-castellucci.de/feed/"
+	},
+	{
+			"vorname": "Jörg",
+			"nachname": "Cezanne",
+			"partei": "DIELINKE",
+			"facebook": "joergcezanne",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/jorg-cezanne"
+	},
+	{
+			"vorname": "Annalena",
+			"nachname": "Christmann",
+			"partei": "GRÜNE",
+			"facebook": "AnnaChristmannBT",
+			"websiteurl": "http://annachristmann.org/",
+			"websiterssurl": "http://annachristmann.org/feed"
+	},
+	{
+			"vorname": "Tino",
+			"nachname": "Chupralla",
+			"partei": "AFD",
+			"facebook": "tino.chrupalla",
+			"websiteurl": "http://tinochrupalla.de/"
+	},
+	{
+			"vorname": "Gitta",
+			"nachname": "Connemann",
+			"partei": "CDU",
+			"facebook": "GittaConnemann",
+			"websiteurl": "http://gitta-connemann.de/"
+	},
+	{
+			"vorname": "Joana Eleonora",
+			"nachname": "Cotar",
+			"partei": "AFD",
+			"twitter": "JoanaCotar",
+			"facebook": "afd.joanacotar",
+			"websiteurl": "https://www.wen-waehlen.de/btw17/kandidaten/34027-joana-eleonora-cotar.html"
+	},
+	{
+			"vorname": "Carl-Julius",
+			"nachname": "Cronenberg",
+			"partei": "FDP",
+			"facebook": "Carlo-Cronenberg-1598008726876796",
+			"websiteurl": "https://www.fdp.de/kandidat/carl-julius-cronenberg"
+	},
+	{
+			"vorname": "Gottfried",
+			"nachname": "Curio",
+			"partei": "SPD",
+			"facebook": "GottfriedCurio.AfD",
+			"websiteurl": "https://www.gottfried-curio.de/"
+	},
+	{
+			"vorname": "Sevim",
+			"nachname": "Dagdelen",
+			"partei": "DIELINKE",
+			"twitter": "SevimDagdelen",
+			"facebook": "MdBSevimDagdelen",
+			"websiteurl": "https://www.sevimdagdelen.de/"
+	},
+	{
+			"vorname": "Bernhard",
+			"nachname": "Daldrup",
+			"partei": "SPD",
+			"websiteurl": "https://www.bernhard-daldrup.de/"
+	},
+	{
+			"vorname": "Astrid",
+			"nachname": "Damerow",
+			"partei": "CDU",
+			"facebook": "AstridDamerowCDU",
+			"websiteurl": "http://www.astrid-damerow.de/"
+	},
+	{
+			"vorname": "Britta",
+			"nachname": "Dassler",
+			"partei": "FDP",
+			"facebook": "brittadassler1",
+			"websiteurl": "http://brittadassler.de/",
+			"websiterssurl": "http://brittadassler.de/feed/"
+	},
+	{
+			"vorname": "Ekin",
+			"nachname": "Deligoez",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.ekin-deligoez.de/startseite.html"
+	},
+	{
+			"vorname": "Dieter",
+			"nachname": "Dehm",
+			"partei": "DIELINKE",
+			"twitter": "Diether_Dehm",
+			"websiteurl": "http://www.diether-dehm.de/"
+	},
+	{
+			"vorname": "Karamba",
+			"nachname": "Diarby",
+			"partei": "SPD",
+			"websiteurl": "http://www.karamba-diaby.de/",
+			"websiterssurl": "http://www.karamba-diaby.de/feed/"
+	},
+	{
+			"vorname": "Ester",
+			"nachname": "Dilcher",
+			"partei": "SPD",
+			"facebook": "esther.dilcher",
+			"websiteurl": "http://www.estherdilcher.de/",
+			"websiterssurl": "http://www.estherdilcher.de/rss.php"
+	},
+	{
+			"vorname": "Sabine",
+			"nachname": "Dittmar",
+			"partei": "SPD",
+			"twitter": "dittmarsabine",
+			"websiteurl": "https://sabine-dittmar.com/",
+			"websiterssurl": "https://sabine-dittmar.com/news/rss/"
+	},
+	{
+			"vorname": "Bijan",
+			"nachname": "Djir-Saari",
+			"partei": "FDP",
+			"facebook": "djirsarai",
+			"websiteurl": "https://bdjir-sarai.2017.fdp.de/"
+	},
+	{
+			"vorname": "Alexander",
+			"nachname": "Dobrint",
+			"partei": "CSU",
+			"facebook": "Alexander.Dobrindt",
+			"websiteurl": "https://www.alexander-dobrindt.org/"
+	},
+	{
+			"vorname": "Anke",
+			"nachname": "Domscheit-Berg",
+			"partei": "DIELINKE",
+			"websiteurl": "http://ankedomscheitberg.de/",
+			"websiterssurl": "http://ankedomscheitberg.de/?feed=rss2"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Donth",
+			"partei": "CDU",
+			"facebook": "donth.cdu",
+			"websiteurl": "http://michael-donth.de/startseite/"
+	},
+	{
+			"vorname": "Katja",
+			"nachname": "Dörner",
+			"partei": "GRÜNE",
+			"twitter": "katjadoerner",
+			"websiteurl": "http://katja-doerner.de/wahl2017/"
+	},
+	{
+			"vorname": "Marie-Luise",
+			"nachname": "Dött",
+			"partei": "CDU",
+			"websiteurl": "http://www.marie-luise-doett.de/"
+	},
+	{
+			"vorname": "Siegbert",
+			"nachname": "Droese",
+			"partei": "AFD",
+			"facebook": "Siegbert-Droese/100013261876392",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/siegbert-droese"
+	},
+	{
+			"vorname": "Katharina",
+			"nachname": "Droege",
+			"partei": "GRÜNE",
+			"twitter": "katdro",
+			"websiteurl": "http://katharina-droege.de/"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Dürr",
+			"partei": "FDP",
+			"twitter": "christianduerr",
+			"websiteurl": "http://www.christian-duerr.de/",
+			"websiterssurl": "http://www.christian-duerr.de/home/feed/"
+	},
+	{
+			"vorname": "Hansjörg",
+			"nachname": "Durz",
+			"partei": "CSU",
+			"twitter": "hansjoerg_durz",
+			"facebook": "Hansjoerg.Durz",
+			"websiteurl": "https://www.hansjoerg-durz.de/",
+			"websiterssurl": "https://www.hansjoerg-durz.de/feed/"
+	},
+	{
+			"vorname": "Hartmut",
+			"nachname": "Ebbing",
+			"partei": "FDP",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/hartmut-ebbing"
+	},
+	{
+			"vorname": "Harald",
+			"nachname": "Ebner",
+			"partei": "GRÜNE",
+			"twitter": "ebner_sha",
+			"facebook": "harald.ebner",
+			"websiteurl": "http://harald-ebner.de/startseite/"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Ehrhorn",
+			"partei": "AFD",
+			"websiteurl": "https://www.afd.de/person/thomas-ehrhorn/"
+	},
+	{
+			"vorname": "Berengar",
+			"nachname": "Elsner von Gronow",
+			"partei": "AFD",
+			"twitter": "elsnervongronow",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/berengar-elsner-von-gronow"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Erndl",
+			"partei": "CSU",
+			"facebook": "Thomas.Erndl.Bayern",
+			"websiteurl": "https://www.thomas-erndl.de/"
+	},
+	{
+			"vorname": "Klaus",
+			"nachname": "Ernst",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.mdb-klaus-ernst.de/"
+	},
+	{
+			"vorname": "Wiebke",
+			"nachname": "Esdar",
+			"partei": "SPD",
+			"websiteurl": "http://www.wiebke-esdar.de/ber-mich/"
+	},
+	{
+			"vorname": "Saskia",
+			"nachname": "Esken",
+			"partei": "SPD",
+			"twitter": "EskenSaskia",
+			"facebook": "EskenSaskia",
+			"websiteurl": "http://www.saskiaesken.de/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Espendiller",
+			"partei": "AFD",
+			"twitter": "espendillerm",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/michael-espendiller"
+	},
+	{
+			"vorname": "Marcus",
+			"nachname": "Faber",
+			"partei": "FDP",
+			"twitter": "MarcusFaber",
+			"websiteurl": "https://www.fdp.de/kandidat/marcus-faber"
+	},
+	{
+			"vorname": "Yasmin",
+			"nachname": "Fahimi",
+			"partei": "SPD",
+			"facebook": "yasmin.fahimi",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/yasmin-fahimi"
+	},
+	{
+			"vorname": "Hermann",
+			"nachname": "Färber",
+			"partei": "CDU",
+			"websiteurl": "http://www.hermann-faerber.de/",
+			"websiterssurl": "http://hermann-faerber.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Johannes",
+			"nachname": "Ferchner",
+			"partei": "SPD",
+			"websiteurl": "http://johannesfechner.de/",
+			"websiterssurl": "http://johannesfechner.de/feed/"
+	},
+	{
+			"vorname": "Uwe",
+			"nachname": "Feiler",
+			"partei": "CDU",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/uwe-feiler"
+	},
+	{
+			"vorname": "Fritz",
+			"nachname": "Felgentreu",
+			"partei": "SPD",
+			"websiteurl": "https://fritz-felgentreu.de/",
+			"websiterssurl": "https://fritz-felgentreu.de/feed/"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Felser",
+			"partei": "AFD",
+			"facebook": "Peter-Felser-AfD-225499161202327",
+			"websiteurl": "http://peterfelser.de/",
+			"websiterssurl": "http://peterfelser.de/feed/"
+	},
+	{
+			"vorname": "Enak",
+			"nachname": "Ferlemann",
+			"partei": "CDU",
+			"websiteurl": "https://www.enak-ferlemann.de/",
+			"websiterssurl": "https://www.enak-ferlemann.de/rss/blog"
+	},
+	{
+			"vorname": "Susanne",
+			"nachname": "Ferschl",
+			"partei": "DIELINKE",
+			"facebook": "FerschlSusanne",
+			"websiteurl": "https://susanne-bundestag.com/",
+			"websiterssurl": "https://susanne-bundestag.com/feed/"
+	},
+	{
+			"vorname": "Axel",
+			"nachname": "Fischer",
+			"partei": "CDU",
+			"facebook": "Axel-Fischer-55574168445",
+			"websiteurl": "http://www.fischer-mdb.de/"
+	},
+	{
+			"vorname": "Maria",
+			"nachname": "Flachbarth",
+			"partei": "CDU",
+			"websiteurl": "http://www.flachsbarth.info/",
+			"websiterssurl": "http://www.flachsbarth.info/feed/"
+	},
+	{
+			"vorname": "Daniel",
+			"nachname": "Föst",
+			"partei": "FDP",
+			"twitter": "DFoest",
+			"websiteurl": "http://www.daniel-foest.de/",
+			"websiterssurl": "http://www.daniel-foest.de/feed/"
+	},
+	{
+			"vorname": "Edgar",
+			"nachname": "Franke",
+			"partei": "SPD",
+			"websiteurl": "http://www.edgarfranke.de/"
+	},
+	{
+			"vorname": "Ulrich",
+			"nachname": "Freese",
+			"partei": "SPD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/ulrich-freese"
+	},
+	{
+			"vorname": "Thorsten",
+			"nachname": "Frei",
+			"partei": "CDU",
+			"websiteurl": "http://thorsten-frei.de/"
+	},
+	{
+			"vorname": "Brigitte",
+			"nachname": "Freihold",
+			"partei": "DIELINKE",
+			"facebook": "brigitte.freihold",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/brigitte-freihold"
+	},
+	{
+			"vorname": "Dagmar",
+			"nachname": "Fretag",
+			"partei": "SPD",
+			"facebook": "erststimmedagmarfreitag",
+			"websiteurl": "http://dagmar-freitag.de/"
+	},
+	{
+			"vorname": "Otto",
+			"nachname": "Fricke",
+			"partei": "FDP"
+	},
+	{
+			"vorname": "Dietmar",
+			"nachname": "Friedhoff",
+			"partei": "AFD",
+			"websiteurl": "https://www.dietmar-friedhoff.de/"
+	},
+	{
+			"vorname": "Hans-Peter",
+			"nachname": "Friedlich",
+			"partei": "CSU",
+			"twitter": "HPFriedrichCSU",
+			"websiteurl": "https://www.hans-peter-friedrich.de/"
+	},
+	{
+			"vorname": "Anton",
+			"nachname": "Friesen",
+			"partei": "AFD",
+			"websiteurl": "https://www.afd.de/person/dr-anton-friesen/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Frieser",
+			"partei": "CSU",
+			"twitter": "michaelfrieser",
+			"websiteurl": "https://www.michael-frieser.de/willkommen.html"
+	},
+	{
+			"vorname": "Markus",
+			"nachname": "Frohnmaier",
+			"partei": "AFD",
+			"facebook": "frohnmaier",
+			"websiteurl": "http://www.markusfrohnmaier.de/",
+			"websiterssurl": "http://www.markusfrohnmaier.de/feed/"
+	},
+	{
+			"vorname": "Götz",
+			"nachname": "Frömming",
+			"partei": "AFD",
+			"facebook": "goetzfroemming",
+			"websiteurl": "http://xn--gtz-frmming-rfbf.de/"
+	},
+	{
+			"vorname": "Hans-Joachim",
+			"nachname": "Fuchtel",
+			"partei": "CDU",
+			"facebook": "fuchtel",
+			"websiteurl": "http://www.fuchtel.de/"
+	},
+	{
+			"vorname": "Sylvia",
+			"nachname": "Gabelmann",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/sylvia-gabelmann"
+	},
+	{
+			"vorname": "Sigmar",
+			"nachname": "Gabriel",
+			"partei": "SPD",
+			"twitter": "sigmargabriel",
+			"facebook": "sigmar.gabriel",
+			"websiteurl": "https://sigmar-gabriel.de/",
+			"websiterssurl": "https://sigmar-gabriel.de/feed/"
+	},
+	{
+			"vorname": "Ingo",
+			"nachname": "Gädchens",
+			"partei": "CDU",
+			"facebook": "anpageIngoGaedechens",
+			"websiteurl": "http://www.ingo-gaedechens.de/"
+	},
+	{
+			"vorname": "Matthias",
+			"nachname": "Gastel",
+			"partei": "FDP",
+			"twitter": "MatthiasGastel",
+			"facebook": "matthias.gastel.1",
+			"websiteurl": "http://www.matthias-gastel.de/"
+	},
+	{
+			"vorname": "Alexander",
+			"nachname": "Gauland",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/alexander-gauland/archive/227627"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Gebhart",
+			"partei": "CDU",
+			"twitter": "thomasgebhart",
+			"facebook": "gebhart.th",
+			"websiteurl": "https://thomas-gebhart.de/"
+	},
+	{
+			"vorname": "Kai",
+			"nachname": "Gehring",
+			"partei": "GRÜNE",
+			"twitter": "KaiGehring",
+			"facebook": "kai.gehring",
+			"websiteurl": "https://kai-gehring.de/"
+	},
+	{
+			"vorname": "Axel",
+			"nachname": "Gehrke",
+			"partei": "AFD",
+			"twitter": "axelgehrke",
+			"websiteurl": "http://www.profgehrke-online.de/"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Gelbhar",
+			"partei": "GRÜNE",
+			"twitter": "stefangelbhaar",
+			"websiteurl": "http://stefan-gelbhaar.de/",
+			"websiterssurl": "http://stefan-gelbhaar.de/feed/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Gerdes",
+			"partei": "SPD",
+			"facebook": "michaelgerdesmdb",
+			"websiteurl": "https://www.michaelgerdes-mdb.de/"
+	},
+	{
+			"vorname": "Alois",
+			"nachname": "Gerig",
+			"partei": "CDU",
+			"websiteurl": "http://www.alois-gerig.de/"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Gerster",
+			"partei": "SPD",
+			"facebook": "MdB.Martin.Gerster",
+			"websiteurl": "http://martin-gerster.de/",
+			"websiterssurl": "http://martin-gerster.de/feed/"
+	},
+	{
+			"vorname": "Eberhard",
+			"nachname": "Gienger",
+			"partei": "CDU",
+			"websiteurl": "http://www.gienger-mdb.de/"
+	},
+	{
+			"vorname": "Albrecht",
+			"nachname": "Glaser",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/albrecht-glaser"
+	},
+	{
+			"vorname": "Angelika",
+			"nachname": "Glöckner",
+			"partei": "SPD",
+			"websiteurl": "http://www.angelika-gloeckner.info/",
+			"websiterssurl": "http://www.angelika-gloeckner.info/index.xml"
+	},
+	{
+			"vorname": "Franziska",
+			"nachname": "Gminder",
+			"partei": "AFD",
+			"facebook": "FGminder",
+			"websiteurl": "https://www.afd.de/person/franziska-gminder/"
+	},
+	{
+			"vorname": "Eckhard",
+			"nachname": "Gnodtke",
+			"partei": "CDU",
+			"websiteurl": "http://www.eckhard-gnodtke.de/",
+			"websiterssurl": "http://eckhard-gnodtke.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Nicole",
+			"nachname": "Gohlke",
+			"partei": "DIELINKE",
+			"twitter": "nicolegohlke",
+			"facebook": "Nicole-Gohlke/1460823087474483",
+			"websiteurl": "http://www.nicole-gohlke.de/feed/"
+	},
+	{
+			"vorname": "Katrin",
+			"nachname": "Göring-Eckardt",
+			"partei": "GRÜNE",
+			"twitter": "goeringeckardt",
+			"facebook": "GoeringEckardt",
+			"websiteurl": "http://www.goering-eckardt.de/"
+	},
+	{
+			"vorname": "Wilhelm",
+			"nachname": "Gottberg",
+			"partei": "AFD",
+			"websiteurl": "https://de.wikipedia.org/wiki/Wilhelm_von_Gottberg"
+	},
+	{
+			"vorname": "Kay",
+			"nachname": "Gottschalk",
+			"partei": "AFD",
+			"twitter": "kaygottschalk1",
+			"facebook": "kay.gottschalk.9",
+			"websiteurl": "https://de.wikipedia.org/wiki/Wilhelm_von_Gottberg"
+	},
+	{
+			"vorname": "Timon",
+			"nachname": "Gemmels",
+			"partei": "SPD",
+			"twitter": "timon_gremmels",
+			"facebook": "TimonGremmels",
+			"websiteurl": "https://www.timon-gremmels.de/"
+	},
+	{
+			"vorname": "Ursula",
+			"nachname": "Goden-Kranich",
+			"partei": "CDU",
+			"facebook": "grodenkranich",
+			"websiteurl": "http://groden-kranich.de/",
+			"websiterssurl": "http://groden-kranich.de/category/brief-aus-berlin/feed/"
+	},
+	{
+			"vorname": "Hermann",
+			"nachname": "Gröhe",
+			"partei": "CDU",
+			"twitter": "groehe",
+			"facebook": "groehe",
+			"websiteurl": "http://www.hermann-groehe.de/",
+			"websiterssurl": "http://www.hermann-groehe.de/rss/hg.xml"
+	},
+	{
+			"vorname": "Klaus-Dieter",
+			"nachname": "Gröhler",
+			"partei": "CDU",
+			"websiteurl": "http://www.groehler.info/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Groß",
+			"partei": "SPD",
+			"twitter": "michaelgrossmdb",
+			"facebook": "michaelgrossmdb",
+			"websiteurl": "http://michaelgrossmdb.de/",
+			"websiterssurl": "http://michaelgrossmdb.de/?feed=rss2"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Grosse-Brömer",
+			"partei": "CDU",
+			"websiteurl": "https://m-grosse-broemer.de/",
+			"websiterssurl": "https://m-grosse-broemer.de/feed/"
+	},
+	{
+			"vorname": "Astrid",
+			"nachname": "Groteüschen",
+			"partei": "CDU",
+			"facebook": "Astrid.Grotelueschen",
+			"websiteurl": "http://www.astrid-grotelueschen.de/",
+			"websiterssurl": "http://www.astrid-grotelueschen.de/feed/"
+	},
+	{
+			"vorname": "Uli",
+			"nachname": "Grötsch",
+			"partei": "SPD",
+			"websiteurl": "https://www.uli-groetsch.de/",
+			"websiterssurl": "https://www.uli-groetsch.de/feed/"
+	},
+	{
+			"vorname": "Markus",
+			"nachname": "Grübel",
+			"partei": "CDU",
+			"facebook": "MarkusGruebelMdB",
+			"websiteurl": "http://www.markus-gruebel.de/",
+			"websiterssurl": "https://www.epenportal.de/101640/rss-feed.xml"
+	},
+	{
+			"vorname": "Erhard",
+			"nachname": "Grundl",
+			"partei": "GRÜNE",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/erhard-grundl"
+	},
+	{
+			"vorname": "Oliver",
+			"nachname": "Grundmann",
+			"partei": "CDU",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/oliver-grundmann"
+	},
+	{
+			"vorname": "Monika",
+			"nachname": "Grütters",
+			"partei": "CDU",
+			"websiteurl": "http://www.monika-gruetters.de/"
+	},
+	{
+			"vorname": "Fritz",
+			"nachname": "Güntzler",
+			"partei": "CDU",
+			"facebook": "Fritz-Güntzler-MdB-621011257931252",
+			"websiteurl": "http://www.fritz-guentzler.de/"
+	},
+	{
+			"vorname": "Olav",
+			"nachname": "Gutting",
+			"partei": "CDU",
+			"twitter": "olavgutting",
+			"facebook": "olav.gutting",
+			"websiteurl": "http://www.olav-gutting.de/",
+			"websiterssurl": "http://www.olav-gutting.de/index.php?format=feed&type=rss"
+	},
+	{
+			"vorname": "Gregor",
+			"nachname": "Gysi",
+			"partei": "DIELINKE",
+			"twitter": "GregorGysi",
+			"facebook": "gregor.gysi",
+			"websiteurl": "https://www.gregorgysi.de/nc/startseite/aktuell/"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Hase",
+			"partei": "CDU",
+			"facebook": "haasechristian.de",
+			"websiteurl": "http://haasechristian.de/"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Hacker",
+			"partei": "FDP",
+			"websiteurl": "https://www.fdp.de/kandidat/thomas-hacker"
+	},
+	{
+			"vorname": "Bettina",
+			"nachname": "Hagedorn",
+			"partei": "SPD",
+			"websiteurl": "http://www.bettina-hagedorn.de/",
+			"websiterssurl": "http://www.bettina-hagedorn.de/index.xml"
+	},
+	{
+			"vorname": "Rita",
+			"nachname": "Hagl-Kehl",
+			"partei": "SPD",
+			"twitter": "RitaHaglKehl",
+			"websiteurl": "http://rita-hagl-kehl.de/",
+			"websiterssurl": "http://rita-hagl-kehl.de/feed/"
+	},
+	{
+			"vorname": "Florian",
+			"nachname": "Hahn",
+			"partei": "CSU",
+			"twitter": "hahnflo",
+			"websiteurl": "http://florian-hahn.de/",
+			"websiterssurl": "http://florian-hahn.de/feed/"
+	},
+	{
+			"vorname": "Andre",
+			"nachname": "Hahn",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.andre-hahn.eu/",
+			"websiterssurl": "http://www.andre-hahn.eu/feed/"
+	},
+	{
+			"vorname": "Anja",
+			"nachname": "Hadjuk",
+			"partei": "GRÜNE",
+			"twitter": "HajdukBundestag",
+			"websiteurl": "http://anja-hajduk.de/"
+	},
+	{
+			"vorname": "Metin",
+			"nachname": "Hakverdi",
+			"partei": "SPD",
+			"twitter": "MetinHakverdi",
+			"websiteurl": "http://metin-hakverdi.de/wordpress/"
+	},
+	{
+			"vorname": "Armin-Paulus",
+			"nachname": "Hampel",
+			"partei": "AFD",
+			"facebook": "ArminPaulHampelAfD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/armin-paul-hampel"
+	},
+	{
+			"vorname": "Heike",
+			"nachname": "Hänsel",
+			"partei": "DIELINKE",
+			"twitter": "HeikeHaensel",
+			"websiteurl": "http://www.heike-haensel.de/",
+			"websiterssurl": "http://www.heike-haensel.de/feed/"
+	},
+	{
+			"vorname": "Stephan",
+			"nachname": "Harbarth",
+			"partei": "CDU",
+			"twitter": "stephanharbarth",
+			"websiteurl": "http://www.stephan-harbarth.de/",
+			"websiterssurl": "http://www.stephan-harbarth.de/index.php?format=feed&type=rss"
+	},
+	{
+			"vorname": "Mariana",
+			"nachname": "Harder-Kühnel",
+			"partei": "AFD",
+			"websiteurl": "http://www.afd-hessen.org/unsere-kandidaten/kandidatenprofil-mariana-harder-kuehnel/"
+	},
+	{
+			"vorname": "Jürgen ",
+			"nachname": "Hardt",
+			"partei": "CDU",
+			"twitter": "juergenhardt",
+			"facebook": "JuergenHardt",
+			"websiteurl": "https://www.juergenhardt.de/"
+	},
+	{
+			"vorname": "Sebastian",
+			"nachname": "Hartmann",
+			"partei": "SPD",
+			"twitter": "sebast_hartmann",
+			"websiteurl": "https://www.sebastian-hartmann.de/"
+	},
+	{
+			"vorname": "Verena",
+			"nachname": "Hartmann",
+			"partei": "AFD",
+			"websiteurl": "https://de.wikipedia.org/wiki/Verena_Hartmann"
+	},
+	{
+			"vorname": "Roland",
+			"nachname": "Hartwig",
+			"partei": "AFD",
+			"twitter": "HartwigRoland",
+			"websiteurl": "https://www.afd.de/person/dr-roland-hartwig/"
+	},
+	{
+			"vorname": "Britta",
+			"nachname": "Haßelmann",
+			"partei": "GRÜNE",
+			"websiteurl": "https://britta-hasselmann.de/",
+			"websiterssurl": "https://britta-hasselmann.de/feed/"
+	},
+	{
+			"vorname": "Matthias",
+			"nachname": "Hauer",
+			"partei": "CDU",
+			"twitter": "MatthiasHauer",
+			"facebook": "matthiashauer.cdu",
+			"websiteurl": "http://www.matthias-hauer.de/"
+	},
+	{
+			"vorname": "Jochen",
+			"nachname": "Haug",
+			"partei": "AFD",
+			"twitter": "jochen_haug",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/jochen-haug"
+	},
+	{
+			"vorname": "Markus",
+			"nachname": "Hauptmann",
+			"partei": "CDU",
+			"websiteurl": "http://www.mark-hauptmann.de/",
+			"websiterssurl": "https://www.epenportal.de/101607/rss-feed.xml"
+	},
+	{
+			"vorname": "Dirk",
+			"nachname": "Heidenblut",
+			"partei": "SPD",
+			"twitter": "dirk_heidenblut",
+			"websiteurl": "https://www.dirk-heidenblut.de/"
+	},
+	{
+			"vorname": "Matthias",
+			"nachname": "Heider",
+			"partei": "CDU",
+			"websiteurl": "http://www.matthias-heider.de/",
+			"websiterssurl": "http://matthias-heider.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Hubertus",
+			"nachname": "Heil",
+			"partei": "SPD",
+			"twitter": "hubertus_heil",
+			"websiteurl": "http://www.hubertus-heil.de/",
+			"websiterssurl": "http://www.hubertus-heil.de/feed/"
+	},
+	{
+			"vorname": "Mechthild",
+			"nachname": "heil",
+			"partei": "CDU",
+			"twitter": "MechthildHeil",
+			"facebook": "MechthildHeil",
+			"websiteurl": "http://www.mechthild-heil.de/"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Heilmann",
+			"partei": "CDU",
+			"websiteurl": "http://www.heilmann.berlin/"
+	},
+	{
+			"vorname": "Gabriela",
+			"nachname": "Heinrich",
+			"partei": "SPD",
+			"websiteurl": "https://gabriela-heinrich.de/",
+			"websiterssurl": "https://gabriela-heinrich.de/news/rss/"
+	},
+	{
+			"vorname": "Frank",
+			"nachname": "Heinrich",
+			"partei": "CDU",
+			"twitter": "frankheinrich",
+			"facebook": "frankheinrichchemnitz",
+			"websiteurl": "http://www.frankheinrich.de/"
+	},
+	{
+			"vorname": "Marcus",
+			"nachname": "Held",
+			"partei": "SPD",
+			"twitter": "marcusheld_spd",
+			"facebook": "mdbmarcus.held",
+			"websiteurl": "http://marcusheld.de/"
+	},
+	{
+			"vorname": "Markus",
+			"nachname": "Helfrich",
+			"partei": "CDU",
+			"websiteurl": "http://mark-helfrich.de/",
+			"websiterssurl": "http://mark-helfrich.de/feed/"
+	},
+	{
+			"vorname": "Kathrin",
+			"nachname": "Helling-Plahr",
+			"partei": "FDP",
+			"twitter": "katrinhelling",
+			"websiteurl": "https://khellling-plahr.2017.fdp.de/"
+	},
+	{
+			"vorname": "Wolfgang",
+			"nachname": "Hellmich",
+			"partei": "SPD",
+			"twitter": "HellmichMdB",
+			"websiteurl": "https://wolfgang-hellmich.de/",
+			"websiterssurl": "https://wolfgang-hellmich.de/feed/"
+	},
+	{
+			"vorname": "Hemmelgarn",
+			"nachname": "Udo Theodor",
+			"partei": "AFD",
+			"twitter": "UdoHemmelgarn",
+			"websiteurl": "https://udohemmelgarn.wordpress.com/"
+	},
+	{
+			"vorname": "Barbara",
+			"nachname": "Hendricks",
+			"partei": "SPD",
+			"facebook": "hendricks.barbara",
+			"websiteurl": "http://www.barbara-hendricks.de/",
+			"websiterssurl": "http://www.barbara-hendricks.de/feed/"
+	},
+	{
+			"vorname": "Rudolf",
+			"nachname": "Henke",
+			"partei": "CDU",
+			"facebook": "rudolf.henke",
+			"websiteurl": "http://www.rudolf-henke.de/",
+			"websiterssurl": "http://www.rudolf-henke.de/rss.xml"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Hennrich",
+			"partei": "CDU",
+			"websiteurl": "http://www.michael-hennrich.de/"
+	},
+	{
+			"vorname": "Marc",
+			"nachname": "Henrichmann",
+			"partei": "CDU",
+			"websiteurl": "http://www.marc-henrichmann.de/",
+			"websiterssurl": "http://www.marc-henrichmann.de/beispiel-seite/feed/"
+	},
+	{
+			"vorname": "Markus",
+			"nachname": "Herbrand",
+			"partei": "FDP",
+			"websiteurl": "https://www.fdp.de/kandidat/markus-herbrand"
+	},
+	{
+			"vorname": "Torsten",
+			"nachname": "Herbst",
+			"partei": "FDP",
+			"twitter": "torstenherbst",
+			"websiteurl": "https://therbst.2017.fdp.de/"
+	},
+	{
+			"vorname": "Waldemar",
+			"nachname": "Herdt",
+			"partei": "AFD",
+			"websiteurl": "https://www.afd.de/person/waldemar-herdt/"
+	},
+	{
+			"vorname": "Lars",
+			"nachname": "Herrmann",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/lars-herrmann"
+	},
+	{
+			"vorname": "Gustav",
+			"nachname": "Herzog",
+			"partei": "SPD",
+			"facebook": "GustavHerzogMdB",
+			"websiteurl": "http://www.gustav-herzog.de/",
+			"websiterssurl": "http://www.gustav-herzog.de/feed/"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Hess",
+			"partei": "AFD",
+			"twitter": "Martin_Hess_AfD",
+			"facebook": "Martin.Hess.AfD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/martin-hess"
+	},
+	{
+			"vorname": "Katja",
+			"nachname": "Hessel",
+			"partei": "FDP",
+			"twitter": "fdp_hessel",
+			"facebook": "HesselKatja",
+			"websiteurl": "http://www.katja-hessel.de/"
+	},
+	{
+			"vorname": "Heiko",
+			"nachname": "Hessenkemper",
+			"partei": "AFD",
+			"facebook": "profheikohessenkemper",
+			"websiteurl": "https://heikohessenkemper.de/",
+			"websiterssurl": "https://heikohessenkemper.de/index.php?format=feed&type=rss"
+	},
+	{
+			"vorname": "Ansgar",
+			"nachname": "Heveling",
+			"partei": "CDU",
+			"websiteurl": "http://www.ansgar-heveling.de/"
+	},
+	{
+			"vorname": "Gabriele",
+			"nachname": "Hiller-Ohm",
+			"partei": "SPD",
+			"twitter": "GabiHillerOhm",
+			"websiteurl": "https://www.hiller-ohm.de/"
+	},
+	{
+			"vorname": "Karsten",
+			"nachname": "Hilse",
+			"partei": "AFD",
+			"facebook": "Karsten.Hilse.Politiker",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/karsten-hilse"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Hirte",
+			"partei": "CDU",
+			"twitter": "ChristianHirte",
+			"websiteurl": "http://www.christian-hirte.de/",
+			"websiterssurl": "https://www.epenportal.de/101151/rss-feed.xml"
+	},
+	{
+			"vorname": "Heribert",
+			"nachname": "Hirte",
+			"partei": "CDU",
+			"twitter": "HHirte",
+			"websiteurl": "http://www.heribert-hirte.de/",
+			"websiterssurl": "http://www.heribert-hirte.de/component/obrss/heribert-hirte"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Hitschler",
+			"partei": "SPD",
+			"websiteurl": "http://www.thomas-hitschler.de/",
+			"websiterssurl": "http://www.thomas-hitschler.de/feed/"
+	},
+	{
+			"vorname": "Nicole",
+			"nachname": "Höchst",
+			"partei": "AFD",
+			"facebook": "Nicole-Höchst/100012388999102",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/nicole-hochst"
+	},
+	{
+			"vorname": "Gero",
+			"nachname": "Hocker",
+			"partei": "FDP",
+			"websiteurl": "https://www.gero-hocker.de/"
+	},
+	{
+			"vorname": "Manuel",
+			"nachname": "Höferlin",
+			"partei": "FDP",
+			"twitter": "ManuelHoeferlin",
+			"websiteurl": "https://mhoeferlin.2017.fdp.de/"
+	},
+	{
+			"vorname": "Christoph",
+			"nachname": "Hoffmann",
+			"partei": "FDP",
+			"websiteurl": "http://www.christoph-hoffmann.info/"
+	},
+	{
+			"vorname": "Alexander",
+			"nachname": "Hoffmann",
+			"partei": "CSU",
+			"facebook": "alexander.hoffmann.3386",
+			"websiteurl": "http://www.alexander-hoffmann.org/startseite.html"
+	},
+	{
+			"vorname": "Bettina",
+			"nachname": "Hoffmann",
+			"partei": "GRÜNE",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/dr-bettina-hoffmann"
+	},
+	{
+			"vorname": "Anton",
+			"nachname": "Hofreiter",
+			"partei": "GRÜNE",
+			"twitter": "ToniHofreiter",
+			"facebook": "anton.hofreiter",
+			"websiteurl": "http://toni-hofreiter.de/",
+			"websiterssurl": "http://toni-hofreiter.de/feed/"
+	},
+	{
+			"vorname": "Eva",
+			"nachname": "Högl",
+			"partei": "SPD",
+			"twitter": "evahoegl",
+			"facebook": "eva.hoegl",
+			"websiteurl": "http://www.eva-hoegl.de/",
+			"websiterssurl": "http://www.eva-hoegl.de/feed/"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Hohmann",
+			"partei": "AFD",
+			"facebook": "afdkreisverbandfulda",
+			"websiteurl": "https://mahofd.wixsite.com/martinhohmann-afd"
+	},
+	{
+			"vorname": "Mathias",
+			"nachname": "Häöhn",
+			"partei": "DIELINKE",
+			"twitter": "matthiashoehn",
+			"facebook": "matthiashoehn.dielinke",
+			"websiteurl": "http://www.matthias-hoehn.de/start/aktuell/"
+	},
+	{
+			"vorname": "Bruno",
+			"nachname": "Hollnagel",
+			"partei": "AFD",
+			"websiteurl": "http://bruno-hollnagel.de/",
+			"websiterssurl": "http://bruno-hollnagel.de/index.php/feed/"
+	},
+	{
+			"vorname": "Leif-Erik",
+			"nachname": "Holm",
+			"partei": "AFD",
+			"twitter": "leif_erik_holm",
+			"facebook": "leiferikholm2",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/leif-erik-holm"
+	},
+	{
+			"vorname": "Karl",
+			"nachname": "Holmeier",
+			"partei": "CSU",
+			"websiteurl": "http://www.holmeier.de/"
+	},
+	{
+			"vorname": "Ottmar",
+			"nachname": "von Holtz",
+			"partei": "GRÜNE",
+			"facebook": "ottmarvonholtz",
+			"websiteurl": "http://www.vonholtz.de/home.html",
+			"websiterssurl": "http://www.vonholtz.de/home/rss.xml"
+	},
+	{
+			"vorname": "Henrik",
+			"nachname": "Hoppenstedt",
+			"partei": "CDU",
+			"facebook": "HendrikHoppenstedt",
+			"websiteurl": "http://www.hendrik-hoppenstedt.de/"
+	},
+	{
+			"vorname": "Reinhard",
+			"nachname": "Houben",
+			"partei": "FDP",
+			"twitter": "HoubenReinhard",
+			"websiteurl": "https://www.fdp.de/kandidat/reinhard-houben"
+	},
+	{
+			"vorname": "Johannes",
+			"nachname": "Huber",
+			"partei": "AFD",
+			"facebook": "Johannes.Huber.AfD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/johannes-huber"
+	},
+	{
+			"vorname": "Andrej",
+			"nachname": "Hunko",
+			"partei": "DIELINKE",
+			"twitter": "AndrejHunko",
+			"websiteurl": "http://www.andrej-hunko.de/",
+			"websiterssurl": "http://www.andrej-hunko.de/?format=feed&type=rss"
+	},
+	{
+			"vorname": "Ulla",
+			"nachname": "Ihnen",
+			"partei": "FDP",
+			"websiteurl": "https://ullaihnen.2017.fdp.de/"
+	},
+	{
+			"vorname": "Erich",
+			"nachname": "Irlsdorfer",
+			"partei": "CSU",
+			"facebook": "ErichIrlstorferMdB",
+			"websiteurl": "https://www.irlstorfer.de/",
+			"websiterssurl": "https://www.irlstorfer.de/feed/"
+	},
+	{
+			"vorname": "Hans-Jürgern",
+			"nachname": "Irmer",
+			"partei": "CDU",
+			"facebook": "Hans-Jürgen-Irmer-170178229988553",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/hans-jurgen-irmer"
+	},
+	{
+			"vorname": "Fabian",
+			"nachname": "Jacobi",
+			"partei": "AFD",
+			"facebook": "fabian.jacobi.999",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/fabian-jacobi"
+	},
+	{
+			"vorname": "Dieter",
+			"nachname": "Jaecek",
+			"partei": "GRÜNE",
+			"twitter": "DJanecek",
+			"facebook": "dieter.janecek",
+			"websiteurl": "https://www.dieterjanecek.de/",
+			"websiterssurl": "https://www.dieterjanecek.de/de/rss/container/2.rss"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Jazombek",
+			"partei": "CDU",
+			"websiteurl": "http://jarzombek.de/"
+	},
+	{
+			"vorname": "Ulla",
+			"nachname": "Jelpke",
+			"partei": "DIELINKE",
+			"twitter": "UllaJelpke",
+			"websiteurl": "http://www.ulla-jelpke.de/",
+			"websiterssurl": "http://www.ulla-jelpke.de/feed/"
+	},
+	{
+			"vorname": "Marc",
+			"nachname": "Jongen",
+			"partei": "AFD",
+			"facebook": "Dr.MarcJongen",
+			"websiteurl": "https://marcjongen.de/",
+			"websiterssurl": "https://marcjongen.de/feed/"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Jung",
+			"partei": "FDP",
+			"twitter": "c_jung77",
+			"facebook": "christianjungfdp",
+			"websiteurl": "https://cjung.abgeordnete.fdpbt.de/"
+	},
+	{
+			"vorname": "Ingmar",
+			"nachname": "Jung",
+			"partei": "CDU",
+			"twitter": "Ingmar_Jung",
+			"websiteurl": "http://ingmar-jung.de/"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Jung",
+			"partei": "CDU",
+			"websiteurl": "https://www.andreas-jung.info/",
+			"websiterssurl": "https://www.andreas-jung.info/rss/blog"
+	},
+	{
+			"vorname": "Frank Michael",
+			"nachname": "Junge",
+			"partei": "SPD",
+			"websiteurl": "http://www.frank-junge.de/",
+			"websiterssurl": "http://www.frank-junge.de/feed/"
+	},
+	{
+			"vorname": "Josip",
+			"nachname": "Juratovic",
+			"partei": "SPD",
+			"facebook": "josipjuratovic",
+			"websiteurl": "https://www.josip-juratovic.de/",
+			"websiterssurl": "https://www.josip-juratovic.de/feed"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Jurk",
+			"partei": "SPD",
+			"facebook": "thomas.jurkspd",
+			"websiteurl": "http://jurk2017.de/"
+	},
+	{
+			"vorname": "Oliver",
+			"nachname": "Kaczmarek",
+			"partei": "SPD",
+			"twitter": "KaczmarekOliver",
+			"websiteurl": "https://www.oliver-kaczmarek.de/",
+			"websiterssurl": "https://www.oliver-kaczmarek.de/feed/"
+	},
+	{
+			"vorname": "Johannes",
+			"nachname": "Kahrs",
+			"partei": "SPD",
+			"twitter": "kahrs",
+			"facebook": "johanneskahrs",
+			"websiteurl": "http://www.kahrs.de/",
+			"websiterssurl": "http://www.kahrs.de/feed/"
+	},
+	{
+			"vorname": "Elisabeth",
+			"nachname": "Kaiser",
+			"partei": "SPD",
+			"twitter": "lier_e",
+			"facebook": "elisabeth.kaiser",
+			"websiteurl": "https://elisabeth-kaiser.spd.de/"
+	},
+	{
+			"vorname": "Uwe",
+			"nachname": "Kamann",
+			"partei": "AFD",
+			"twitter": "uwe_kamann",
+			"facebook": "Uwe.Kamann.BTW2017",
+			"websiteurl": "https://kamann-afd.de/",
+			"websiterssurl": "https://kamann-afd.de/feed/"
+	},
+	{
+			"vorname": "Kirsten",
+			"nachname": "Kappert-Gonther",
+			"partei": "GRÜNE",
+			"facebook": "KappertGonther",
+			"websiteurl": "https://kappertgonther.de/"
+	},
+	{
+			"vorname": "Ralf",
+			"nachname": "Kapschack",
+			"partei": "SPD",
+			"facebook": "EsgehtumGerechtigkeit",
+			"websiteurl": "http://www.ralf-kapschack.de/",
+			"websiterssurl": "http://www.ralf-kapschack.de/feed.xml"
+	},
+	{
+			"vorname": "Alois",
+			"nachname": "Karl",
+			"partei": "CSU",
+			"facebook": "alois.karl.7",
+			"websiteurl": "http://www.alois-karl.de/"
+	},
+	{
+			"vorname": "Anja",
+			"nachname": "Karliczek",
+			"partei": "CDU",
+			"twitter": "anjakarliczek",
+			"websiteurl": "http://anja-karliczek.de/"
+	},
+	{
+			"vorname": "Torbjörn",
+			"nachname": "Kartes",
+			"partei": "CDU",
+			"facebook": "kartes2017",
+			"websiteurl": "http://www.kartes2017.de/"
+	},
+	{
+			"vorname": "Kerstin",
+			"nachname": "Kassner",
+			"partei": "DIELINKE",
+			"facebook": "linksinvorpommern",
+			"websiteurl": "http://www.kerstin-kassner.de/start/presse/aktuelles/"
+	},
+	{
+			"vorname": "Gabriele",
+			"nachname": "Katzmarek",
+			"partei": "SPD",
+			"twitter": "gabykatzmarek",
+			"websiteurl": "http://www.gabriele-katzmarek.de/",
+			"websiterssurl": "http://www.gabriele-katzmarek.de/feed/"
+	},
+	{
+			"vorname": "Volker",
+			"nachname": "Kauder",
+			"partei": "CDU",
+			"websiteurl": "http://www.volker-kauder.de/"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Kaufmann",
+			"partei": "CDU",
+			"twitter": "StefanKaufmann",
+			"websiteurl": "http://www.stefan-kaufmann.de/onepager/"
+	},
+	{
+			"vorname": "Uwe",
+			"nachname": "Kekeritz",
+			"partei": "GRÜNE",
+			"twitter": "uwekekeritz",
+			"websiteurl": "http://www.uwe-kekeritz.de/aktuelles/"
+	},
+	{
+			"vorname": "Ulrich",
+			"nachname": "Kelber",
+			"partei": "SPD",
+			"websiteurl": "http://www.ulrich-kelber.de/"
+	},
+	{
+			"vorname": "Kemmer",
+			"nachname": "Ronja",
+			"partei": "CDU",
+			"websiteurl": "http://ronja-kemmer.de/",
+			"websiterssurl": "http://ronja-kemmer.de/feed/"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Kemmerich",
+			"partei": "FDP",
+			"twitter": "KemmerichThL",
+			"websiteurl": "https://kemmerich.wordpress.com/",
+			"websiterssurl": "https://kemmerich.wordpress.com/feed/"
+	},
+	{
+			"vorname": "Achim",
+			"nachname": "Kessler",
+			"partei": "DIELINKE",
+			"twitter": "AchimKessler",
+			"facebook": "DrAchimKessler",
+			"websiteurl": "https://www.achim-kessler.de/",
+			"websiterssurl": "https://www.achim-kessler.de/feed/"
+	},
+	{
+			"vorname": "Jens",
+			"nachname": "Kestner",
+			"partei": "AFD",
+			"websiteurl": "http://www.afd-northeim.de/index.php/kontakt/20-jens-kestner"
+	},
+	{
+			"vorname": "Katja",
+			"nachname": "Keul",
+			"partei": "GRÜNE",
+			"websiteurl": "http://katja-keul.de/aktuell/"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Keuter",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/stefan-keuter"
+	},
+	{
+			"vorname": "Roderich",
+			"nachname": "Kiesewetter",
+			"partei": "CDU",
+			"twitter": "RKiesewetter",
+			"facebook": "roderich.kiesewetter",
+			"websiteurl": "http://www.roderich-kiesewetter.de/startseite.html"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Mießling",
+			"partei": "CSU",
+			"facebook": "Kiessling.CSU.Starnberg.Landsberg.Germering",
+			"websiteurl": "http://www.kiessling-michael.de/home.html"
+	},
+	{
+			"vorname": "Sven",
+			"nachname": "Kindler",
+			"partei": "GRÜNE",
+			"twitter": "sven_kindler",
+			"facebook": "svenkindlermdb",
+			"websiteurl": "https://www.sven-kindler.de/",
+			"websiterssurl": "https://www.sven-kindler.de/feed"
+	},
+	{
+			"vorname": "Georg",
+			"nachname": "Kippels",
+			"partei": "CDU",
+			"facebook": "georg.kippels",
+			"websiteurl": "http://www.georg-kippels.de/"
+	},
+	{
+			"vorname": "Katja",
+			"nachname": "Kipping",
+			"partei": "DIELINKE",
+			"twitter": "katjakipping",
+			"facebook": "KatjaKipping",
+			"websiteurl": "https://www.katja-kipping.de/",
+			"websiterssurl": "https://www.katja-kipping.de/de/rss/kipping.rss"
+	},
+	{
+			"vorname": "Cansel",
+			"nachname": "Kiziltepe",
+			"partei": "SPD",
+			"twitter": "canselk",
+			"websiteurl": "http://cansel-kiziltepe.de/"
+	},
+	{
+			"vorname": "Arno",
+			"nachname": "Klare",
+			"partei": "SPD",
+			"twitter": "arnoklare",
+			"websiteurl": "https://www.arnoklare.de/",
+			"websiterssurl": "https://www.arnoklare.de/category/meldung/feed/"
+	},
+	{
+			"vorname": "Volkmar",
+			"nachname": "Klein",
+			"partei": "CDU",
+			"twitter": "VolkmarKlein",
+			"websiteurl": "http://www.volkmarklein.de/"
+	},
+	{
+			"vorname": "Karsten",
+			"nachname": "Klein",
+			"partei": "FDP",
+			"websiteurl": "http://www.karsten-klein.de/"
+	},
+	{
+			"vorname": "Maria",
+			"nachname": "Klein-Schmeik",
+			"partei": "GRÜNE",
+			"twitter": "MariaKlSchmeink",
+			"facebook": "maria.kleinschmeink",
+			"websiteurl": "http://www.klein-schmeink.de/"
+	},
+	{
+			"vorname": "Norbert",
+			"nachname": "Kleinwächter",
+			"partei": "AFD",
+			"twitter": "NKleinwaechter",
+			"facebook": "norbert.kleinwachter",
+			"websiteurl": "https://derkleinewaechter.wordpress.com/",
+			"websiterssurl": "https://derkleinewaechter.wordpress.com/feed/"
+	},
+	{
+			"vorname": "Lars",
+			"nachname": "Klingenbeil",
+			"partei": "SPD",
+			"twitter": "larsklingbeil",
+			"facebook": "klingbeil.lars",
+			"websiteurl": "https://www.lars-klingbeil.de/"
+	},
+	{
+			"vorname": "Marcel",
+			"nachname": "Klinge",
+			"partei": "FDP",
+			"facebook": "marcelklinge",
+			"websiteurl": "https://www.marcel-klinge.de/"
+	},
+	{
+			"vorname": "Katharina",
+			"nachname": "Kloke",
+			"partei": "FDP",
+			"websiteurl": "https://kkloke.2017.fdp.de/"
+	},
+	{
+			"vorname": "Daniela",
+			"nachname": "Kluckert",
+			"partei": "FDP",
+			"twitter": "DanielaKluckert",
+			"facebook": "kluckert.daniela",
+			"websiteurl": "https://dkluckert.2017.fdp.de/"
+	},
+	{
+			"vorname": "Axel",
+			"nachname": "Knoerig",
+			"partei": "CDU",
+			"websiteurl": "http://www.axel-knoerig.de/"
+	},
+	{
+			"vorname": "Pascal",
+			"nachname": "Kober",
+			"partei": "FDP",
+			"websiteurl": "https://www.fdp-bw.de/person.php?num=62",
+			"websiterssurl": "https://fdp-bw.de/rss/rss2.php"
+	},
+	{
+			"vorname": "Jens",
+			"nachname": "Koeppen",
+			"partei": "CDU",
+			"websiteurl": "http://jens-koeppen.de/",
+			"websiterssurl": "http://jens-koeppen.de/feed/"
+	},
+	{
+			"vorname": "Bärbel",
+			"nachname": "Kofler",
+			"partei": "SPD",
+			"twitter": "BaerbelKofler",
+			"facebook": "Baerbel.Kofler",
+			"websiteurl": "https://baerbel-kofler.de/",
+			"websiterssurl": "https://baerbel-kofler.de/news/rss/"
+	},
+	{
+			"vorname": "Lukas",
+			"nachname": "Köehler",
+			"partei": "FDP",
+			"websiteurl": "https://lukaskoehler.de/"
+	},
+	{
+			"vorname": "Daniela",
+			"nachname": "Kolbe",
+			"partei": "SPD",
+			"twitter": "danielakolbe",
+			"facebook": "DanielaKolbeMdB",
+			"websiteurl": "https://daniela-kolbe.de/",
+			"websiterssurl": "https://daniela-kolbe.de/feed/"
+	},
+	{
+			"vorname": "Enrico",
+			"nachname": "Komming",
+			"partei": "AFD",
+			"twitter": "enricokomning",
+			"facebook": "Enrico.Komning",
+			"websiteurl": "http://www.enrico-komning.de/"
+	},
+	{
+			"vorname": "Jörn",
+			"nachname": "König",
+			"partei": "AFD",
+			"websiteurl": "https://www.afd.de/person/joern-koenig/"
+	},
+	{
+			"vorname": "Carina",
+			"nachname": "Conrad",
+			"partei": "FDP",
+			"twitter": "carina_konrad",
+			"websiteurl": "https://ckonrad.2017.fdp.de/"
+	},
+	{
+			"vorname": "Marcus",
+			"nachname": "Koob",
+			"partei": "CDU",
+			"websiteurl": "http://www.markus-koob.de/",
+			"websiterssurl": "http://markus-koob.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Carsten",
+			"nachname": "Körber",
+			"partei": "CDU",
+			"websiteurl": "http://www.carsten-koerber.de/"
+	},
+	{
+			"vorname": "Elvan",
+			"nachname": "Korkmaz",
+			"partei": "SPD",
+			"websiteurl": "https://www.elvan-korkmaz.de/"
+	},
+	{
+			"vorname": "Jan",
+			"nachname": "Korte",
+			"partei": "DIELINKE",
+			"twitter": "jankortemdb",
+			"facebook": "jankortemdb",
+			"websiteurl": "https://www.jankorte.de/"
+	},
+	{
+			"vorname": "Steffen",
+			"nachname": "Kotre",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/steffen-kotre"
+	},
+	{
+			"vorname": "Sylvia",
+			"nachname": "Kotting-Uhl",
+			"partei": "GRÜNE",
+			"twitter": "BabettesChefin",
+			"websiteurl": "https://kotting-uhl.de/",
+			"websiterssurl": "https://kotting-uhl.de/site/feed/"
+	},
+	{
+			"vorname": "Rainer",
+			"nachname": "Kraft",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/rainer-kraft"
+	},
+	{
+			"vorname": "Anette",
+			"nachname": "Kramme",
+			"partei": "SPD",
+			"facebook": "anette.kramme.bayreuth",
+			"websiteurl": "http://www.anette-kramme.de/",
+			"websiterssurl": "http://www.anette-kramme.de/rss.xml"
+	},
+	{
+			"vorname": "Alexander",
+			"nachname": "Krauß",
+			"partei": "CDU",
+			"websiteurl": "http://www.alexander-krauss.com/",
+			"websiterssurl": "https://www.epenportal.de/101840/rss-feed.xml"
+	},
+	{
+			"vorname": "Jutta",
+			"nachname": "Krellmann",
+			"partei": "DIELINKE",
+			"websiteurl": "http://jutta-krellmann.de/"
+	},
+	{
+			"vorname": "Gunter",
+			"nachname": "Kirchbaum",
+			"partei": "CDU",
+			"facebook": "krichbaum.bundestag",
+			"websiteurl": "http://www.gunther-krichbaum.de/"
+	},
+	{
+			"vorname": "Günter",
+			"nachname": "Krings",
+			"partei": "CDU",
+			"websiteurl": "http://www.guenter-krings.de/",
+			"websiterssurl": "https://www.epenportal.de/101519/rss-feed.xml"
+	},
+	{
+			"vorname": "Oliver",
+			"nachname": "Krischer",
+			"partei": "GRÜNE",
+			"facebook": "okrischer",
+			"websiteurl": "http://www.oliver-krischer.eu/",
+			"websiterssurl": "http://www.oliver-krischer.eu/feed/"
+	},
+	{
+			"vorname": "Rüdiger",
+			"nachname": "Kruse",
+			"partei": "CDU",
+			"twitter": "ruedigerkruse",
+			"websiteurl": "http://ruedigerkruse.de/"
+	},
+	{
+			"vorname": "Wolfgang",
+			"nachname": "Kubicki",
+			"partei": "FDP",
+			"facebook": "kubicki.wolfgang",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/wolfgang-kubicki"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Kuffner",
+			"partei": "CSU",
+			"websiteurl": "https://www.michaelkuffer.de/"
+	},
+	{
+			"vorname": "Konstantin",
+			"nachname": "Kuhle",
+			"partei": "FDP",
+			"facebook": "KonstantinKuhle",
+			"websiteurl": "https://www.konstantin-kuhle.de/"
+	},
+	{
+			"vorname": "Chris",
+			"nachname": "Kühn",
+			"partei": "GRÜNE",
+			"twitter": "ChrisKuehn_mdb",
+			"websiteurl": "http://chriskuehn.de/",
+			"websiterssurl": "http://chriskuehn.de/feed/"
+	},
+	{
+			"vorname": "Stephan",
+			"nachname": "Kühn",
+			"partei": "GRÜNE",
+			"twitter": "stephankuehn",
+			"websiteurl": "http://www.stephankuehn.com/"
+	},
+	{
+			"vorname": "Roy",
+			"nachname": "Kühne",
+			"partei": "CDU",
+			"websiteurl": "https://www.dr-roy-kuehne.de/start/"
+	},
+	{
+			"vorname": "Alexander",
+			"nachname": "Kulitz",
+			"partei": "FDP",
+			"facebook": "KulitzAlexander",
+			"websiteurl": "https://akulitz.2017.fdp.de/"
+	},
+	{
+			"vorname": "Renate",
+			"nachname": "Künast",
+			"partei": "GRÜNE",
+			"websiteurl": "https://www.renate-kuenast.de/"
+	},
+	{
+			"vorname": "Markus",
+			"nachname": "Kurth",
+			"partei": "GRÜNE",
+			"twitter": "markuskurthmdb",
+			"websiteurl": "http://www.markus-kurth.de/"
+	},
+	{
+			"vorname": "Christine",
+			"nachname": "Lamprecht",
+			"partei": "SPD",
+			"websiteurl": "http://christine-lambrecht.de/"
+	},
+	{
+			"vorname": "Alexander",
+			"nachname": "Graf Lambsdorf",
+			"partei": "FDP",
+			"twitter": "Lambsdorff",
+			"facebook": "Alexander.Lambsdorff",
+			"websiteurl": "http://www.lambsdorffdirekt.de/",
+			"websiterssurl": "http://www.lambsdorffdirekt.de/feed/"
+	},
+	{
+			"vorname": "Karl",
+			"nachname": "Lamers",
+			"partei": "CDU",
+			"facebook": "KarlALamers",
+			"websiteurl": "http://www.karl-lamers.de/",
+			"websiterssurl": "http://www.karl-lamers.de/feed/"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Lämmel",
+			"partei": "CDU",
+			"websiteurl": "http://www.andreas-laemmel.de/",
+			"websiterssurl": "https://www.epenportal.de/102319/rss-feed.xml"
+	},
+	{
+			"vorname": "Katharina",
+			"nachname": "Landgraf",
+			"partei": "CDU",
+			"websiteurl": "http://www.katharina-landgraf.de/",
+			"websiterssurl": "http://katharina-landgraf.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Ulrich",
+			"nachname": "Lange",
+			"partei": "CSU",
+			"websiteurl": "http://www.ulrich-lange.info/"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Lange",
+			"partei": "SPD",
+			"twitter": "LangeMdB",
+			"websiteurl": "http://www.lange-spd.de/"
+	},
+	{
+			"vorname": "Silke",
+			"nachname": "Launert",
+			"partei": "CSU",
+			"twitter": "DrLaunert",
+			"websiteurl": "http://www.silke-launert.de/",
+			"websiterssurl": "http://www.silke-launert.de/aktuelles/feed/"
+	},
+	{
+			"vorname": "Karl",
+			"nachname": "Lauterbach",
+			"partei": "SPD",
+			"twitter": "Karl_Lauterbach",
+			"websiteurl": "http://www.karllauterbach.de/"
+	},
+	{
+			"vorname": "Caren",
+			"nachname": "Lay",
+			"partei": "DIELINKE",
+			"twitter": "CarenLay",
+			"websiteurl": "https://www.caren-lay.de/"
+	},
+	{
+			"vorname": "Monika",
+			"nachname": "Lazar",
+			"partei": "GRÜNE",
+			"twitter": "MonikaLazar",
+			"websiteurl": "http://www.monika-lazar.de/aktuelles/",
+			"websiterssurl": "http://www.monika-lazar.de/index.php?id=7&type=9818"
+	},
+	{
+			"vorname": "Ulrich",
+			"nachname": "Lechte",
+			"partei": "FDP",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/ulrich-lechte"
+	},
+	{
+			"vorname": "Sven",
+			"nachname": "Lehmann",
+			"partei": "GRÜNE",
+			"twitter": "svenlehmann",
+			"websiteurl": "http://sven-lehmann.eu/",
+			"websiterssurl": "http://sven-lehmann.eu/feed/"
+	},
+	{
+			"vorname": "Jens",
+			"nachname": "Lehmann",
+			"partei": "CDU",
+			"facebook": "JensLehmannLeipzig",
+			"websiteurl": "https://www.jens-lehmann-cdu.com/"
+	},
+	{
+			"vorname": "Paul",
+			"nachname": "Lehrieder",
+			"partei": "CSU",
+			"websiteurl": "http://www.paul-lehrieder.de/"
+	},
+	{
+			"vorname": "Sabine",
+			"nachname": "Leiding",
+			"partei": "DIELINKE",
+			"twitter": "sabineleidig",
+			"websiteurl": "http://www.sabine-leidig.de/"
+	},
+	{
+			"vorname": "Katja",
+			"nachname": "Leikert",
+			"partei": "CDU",
+			"websiteurl": "https://katja-leikert.com/"
+	},
+	{
+			"vorname": "Steffi",
+			"nachname": "Lemke",
+			"partei": "GRÜNE",
+			"twitter": "SteffiLemke",
+			"websiteurl": "https://steffi-lemke.de/",
+			"websiterssurl": "https://steffi-lemke.de/?feed=rss2"
+	},
+	{
+			"vorname": "Ralph",
+			"nachname": "Lenkert",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.ralph-lenkert.de/"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Lenz",
+			"partei": "CSU",
+			"twitter": "DerLenzMdB",
+			"websiteurl": "http://www.andreas-lenz.info/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Leuert",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.michael-leutert.de/"
+	},
+	{
+			"vorname": "Ursula",
+			"nachname": "von der Leyen",
+			"partei": "CDU",
+			"websiteurl": "http://www.ursula-von-der-leyen.de/"
+	},
+	{
+			"vorname": "Antje",
+			"nachname": "Lezius",
+			"partei": "CDU",
+			"facebook": "AntjeLezius",
+			"websiteurl": "http://www.antje-lezius.de/"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Liebich",
+			"partei": "DIELINKE",
+			"twitter": "berlinliebich",
+			"websiteurl": "https://www.stefan-liebich.de/"
+	},
+	{
+			"vorname": "Helge",
+			"nachname": "Lindh",
+			"partei": "SPD",
+			"twitter": "helgelindh",
+			"websiteurl": "https://www.helge-lindh.de/"
+	},
+	{
+			"vorname": "Andrea",
+			"nachname": "Lindholz",
+			"partei": "CSU",
+			"twitter": "AndreaLindholz",
+			"facebook": "andrea.lindholz",
+			"websiteurl": "https://www.lindholz.de/"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Lindner",
+			"partei": "FDP",
+			"twitter": "c_lindner",
+			"websiteurl": "https://www.christian-lindner.de/"
+	},
+	{
+			"vorname": "Tobias",
+			"nachname": "Lindner",
+			"partei": "GRÜNE",
+			"twitter": "tobiaslindner",
+			"websiteurl": "http://www.tobias-lindner.de/start.html"
+	},
+	{
+			"vorname": "Michael Georg",
+			"nachname": "Link",
+			"partei": "FDP",
+			"twitter": "michael_g_link",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/michael-link/archive/135869"
+	},
+	{
+			"vorname": "Carsten",
+			"nachname": "Linnemann",
+			"partei": "FDP",
+			"facebook": "carsten.linnemann.3",
+			"websiteurl": "http://www.carsten-linnemann.de/"
+	},
+	{
+			"vorname": "Patricia",
+			"nachname": "Lips",
+			"partei": "CDU",
+			"facebook": "bundestag.lips",
+			"websiteurl": "https://patricia-lips.de/",
+			"websiterssurl": "https://patricia-lips.de/feed/"
+	},
+	{
+			"vorname": "Burkhard",
+			"nachname": "Lischka",
+			"partei": "SPD",
+			"twitter": "LischkaB",
+			"websiteurl": "https://www.burkhard-lischka.de/"
+	},
+	{
+			"vorname": "Nikolas",
+			"nachname": "Löbel",
+			"partei": "CDU",
+			"websiteurl": "https://www.nikolas-loebel.de/",
+			"websiterssurl": "https://www.nikolas-loebel.de/feed.xml"
+	},
+	{
+			"vorname": "Bernhard",
+			"nachname": "Loos",
+			"partei": "CSU",
+			"websiteurl": "http://bernhard-loos.de/",
+			"websiterssurl": "http://bernhard-loos.de/feed/"
+	},
+	{
+			"vorname": "Gesinde",
+			"nachname": "Lötzsch",
+			"partei": "DIELINKE",
+			"twitter": "LoetzschMdB",
+			"websiteurl": "https://www.gesine-loetzsch.de/willkommen/aktuelles/"
+	},
+	{
+			"vorname": "Hans-Rüdiger",
+			"nachname": "Lucassen",
+			"partei": "AFD",
+			"twitter": "Buerger2016",
+			"websiteurl": "https://ruediger-lucassen.de/",
+			"websiterssurl": "https://ruediger-lucassen.de/feed/"
+	},
+	{
+			"vorname": "Jan-Marco",
+			"nachname": "Luczak",
+			"partei": "CDU",
+			"websiteurl": "http://www.luczak-berlin.de/"
+	},
+	{
+			"vorname": "Daniela",
+			"nachname": "Ludwig",
+			"partei": "CSU",
+			"facebook": "daniela.ludwig.bundestag",
+			"websiteurl": "https://www.daniela-ludwig.de/"
+	},
+	{
+			"vorname": "Kirsten",
+			"nachname": "Lühmann",
+			"partei": "SPD",
+			"websiteurl": "https://kirsten-luehmann.de/",
+			"websiterssurl": "https://kirsten-luehmann.de/meta/rss/feed.xml"
+	},
+	{
+			"vorname": "Oliver",
+			"nachname": "Luksic",
+			"partei": "FDP",
+			"twitter": "OlliLuksic",
+			"facebook": "OlliLuksic",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/oliver-luksic/"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Lutze",
+			"partei": "DIELINKE",
+			"twitter": "thlutze",
+			"facebook": "thlutze",
+			"websiteurl": "http://www.thomaslutze.de/"
+	},
+	{
+			"vorname": "Karin",
+			"nachname": "Maag",
+			"partei": "CDU",
+			"facebook": "karin.maag.stuttgart",
+			"websiteurl": "https://www.karin-maag.de/"
+	},
+	{
+			"vorname": "Heiko",
+			"nachname": "Maas",
+			"partei": "SPD",
+			"twitter": "HeikoMaas",
+			"websiteurl": "https://heiko-maas.spd.de/"
+	},
+	{
+			"vorname": "Frank",
+			"nachname": "Magnitz",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/frank-magnitz"
+	},
+	{
+			"vorname": "Yvonne",
+			"nachname": "Magwas",
+			"partei": "CDU",
+			"twitter": "YvonneMagwas",
+			"websiteurl": "http://www.magwas.de/"
+	},
+	{
+			"vorname": "Lothar",
+			"nachname": "Maier",
+			"partei": "AFD",
+			"websiteurl": "https://www.lothar-maier.eu/",
+			"websiterssurl": "https://www.lothar-maier.eu/?format=feed&amp;type=rss"
+	},
+	{
+			"vorname": "Jens",
+			"nachname": "Maier",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/jens-maier"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "de Maizere",
+			"partei": "CDU",
+			"websiteurl": "https://www.thomasdemaiziere.de/"
+	},
+	{
+			"vorname": "Birgit",
+			"nachname": "Malsack-Winkemann",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/birgit-malsack-winkemann"
+	},
+	{
+			"vorname": "Astrid",
+			"nachname": "Mannes",
+			"partei": "CDU",
+			"websiteurl": "http://www.astrid-mannes.de/",
+			"websiterssurl": "http://astrid-mannes.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Till",
+			"nachname": "Mansmann",
+			"partei": "FDP",
+			"facebook": "tillmansmannfdp",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/till-mansmann/archive/239976"
+	},
+	{
+			"vorname": "Caren",
+			"nachname": "Marks",
+			"partei": "SPD",
+			"websiteurl": "http://www.caren-marks.de/",
+			"websiterssurl": "http://www.caren-marks.de/feed/"
+	},
+	{
+			"vorname": "Jürgen ",
+			"nachname": "Martens",
+			"partei": "FDP",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/dr-juergen-martens"
+	},
+	{
+			"vorname": "Hans-Georg",
+			"nachname": "von der Marwitz",
+			"partei": "CDU",
+			"websiteurl": "http://www.von-der-marwitz-mdb.de/",
+			"websiterssurl": "http://von-der-marwitz-mdb.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Fabio",
+			"nachname": "De Masi",
+			"partei": "DIELINKE",
+			"twitter": "FabioDeMasi",
+			"websiteurl": "http://www.fabio-de-masi.de/"
+	},
+	{
+			"vorname": "Katja",
+			"nachname": "Mast",
+			"partei": "SPD",
+			"websiteurl": "http://www.katja-mast.de/",
+			"websiterssurl": "http://www.katja-mast.de/atom.xml"
+	},
+	{
+			"vorname": "Christoph",
+			"nachname": "Matschie",
+			"partei": "SPD",
+			"twitter": "matschie",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/christoph-matschie-2/archive/240342"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Mattfeld",
+			"partei": "CDU",
+			"websiteurl": "http://www.andreas-mattfeldt.de/",
+			"websiterssurl": "http://www.andreas-mattfeldt.de/feed/"
+	},
+	{
+			"vorname": "Hilde",
+			"nachname": "Mattheis",
+			"partei": "SPD",
+			"websiteurl": "http://www.hilde-mattheis.de/"
+	},
+	{
+			"vorname": "Stephan ",
+			"nachname": "Mayer",
+			"partei": "CSU",
+			"websiteurl": "http://www.mayer-stephan.de/"
+	},
+	{
+			"vorname": "Pascal",
+			"nachname": "Meiser",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.pascal-meiser.de/",
+			"websiterssurl": "http://www.pascal-meiser.de/feed/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Meister",
+			"partei": "CDU",
+			"twitter": "meister_schafft",
+			"websiteurl": "https://www.meister-schafft.de/index.php",
+			"websiterssurl": "https://www.meister-schafft.de/?format=feed&type=rss"
+	},
+	{
+			"vorname": "Jan",
+			"nachname": "Metzler",
+			"partei": "CDU",
+			"twitter": "JanMetzler",
+			"websiteurl": "http://www.janmetzler.de/"
+	},
+	{
+			"vorname": "Christoph",
+			"nachname": "Meyer",
+			"partei": "FDP",
+			"twitter": "ChristophFDP",
+			"websiteurl": "https://www.fdp.de/kandidat/christoph-meyer"
+	},
+	{
+			"vorname": "Corina",
+			"nachname": "Miazga",
+			"partei": "AFD",
+			"websiteurl": "https://corinna-miazga.de/",
+			"websiterssurl": "https://corinna-miazga.de/feed/"
+	},
+	{
+			"vorname": "Hans",
+			"nachname": "Michelbach",
+			"partei": "CSU",
+			"twitter": "hans_michelbach",
+			"websiteurl": "https://www.hans-michelbach.de/startseite.html"
+	},
+	{
+			"vorname": "Mathias",
+			"nachname": "Middleberg",
+			"partei": "CDU",
+			"websiteurl": "http://mathias-middelberg.de/",
+			"websiterssurl": "http://mathias-middelberg.de/feed/"
+	},
+	{
+			"vorname": "Matthias",
+			"nachname": "Miersch",
+			"partei": "SPD",
+			"websiteurl": "https://www.matthias-miersch.de/"
+	},
+	{
+			"vorname": "Mario",
+			"nachname": "Mieruch",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/mario-mieruch/archive/138240"
+	},
+	{
+			"vorname": "Irene",
+			"nachname": "Mihalic",
+			"partei": "GRÜNE",
+			"twitter": "IreneMihalic",
+			"websiteurl": "https://irene-mihalic.de/"
+	},
+	{
+			"vorname": "Klaus",
+			"nachname": "Mindrup",
+			"partei": "SPD",
+			"websiteurl": "http://www.klaus-mindrup.de/"
+	},
+	{
+			"vorname": "Susanne",
+			"nachname": "Mittag",
+			"partei": "SPD",
+			"websiteurl": "https://susanne-mittag.info/",
+			"websiterssurl": "https://susanne-mittag.info/meta/rss/feed.xml"
+	},
+	{
+			"vorname": "Amira",
+			"nachname": "Mohamed Ali",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/amira-mohamed-ali"
+	},
+	{
+			"vorname": "Cornelia",
+			"nachname": "Möhring",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.cornelia-moehring.de/"
+	},
+	{
+			"vorname": "Falko",
+			"nachname": "Mohrs",
+			"partei": "SPD",
+			"websiteurl": "https://www.falkomohrs.de/",
+			"websiterssurl": "https://www.falkomohrs.de/rss/blog"
+	},
+	{
+			"vorname": "Claudia",
+			"nachname": "Moll",
+			"partei": "SPD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/claudia-moll"
+	},
+	{
+			"vorname": "Siemtje",
+			"nachname": "Möller",
+			"partei": "SPD",
+			"websiteurl": "https://siemtje-moeller.de/",
+			"websiterssurl": "https://siemtje-moeller.de/meta/rss/feed.xml"
+	},
+	{
+			"vorname": "Dietrich",
+			"nachname": "Monstadt",
+			"partei": "CDU",
+			"websiteurl": "https://www.dietrich-monstadt.de/",
+			"websiterssurl": "https://www.dietrich-monstadt.de/rss/blog"
+	},
+	{
+			"vorname": "Karsten",
+			"nachname": "Möhring",
+			"partei": "CDU",
+			"twitter": "karstenmoering",
+			"websiteurl": "http://www.karsten-moering.de/"
+	},
+	{
+			"vorname": "Marlene",
+			"nachname": "Mortler",
+			"partei": "CSU",
+			"twitter": "marlenemortler",
+			"websiteurl": "https://www.marlenemortler.de/"
+	},
+	{
+			"vorname": "Elisabeth",
+			"nachname": "Mottschmann",
+			"partei": "CDU",
+			"websiteurl": "http://www.elisabethmotschmann.de"
+	},
+	{
+			"vorname": "Niema",
+			"nachname": "Movasat",
+			"partei": "DIELINKE",
+			"twitter": "NiemaMovassat",
+			"websiteurl": "https://www.movassat.de/",
+			"websiterssurl": "https://www.movassat.de/rss.xml"
+	},
+	{
+			"vorname": "Mrosek",
+			"nachname": "Andreas",
+			"partei": "AFD",
+			"websiteurl": "http://www.mrosek-dessau.de/"
+	},
+	{
+			"vorname": "Axel",
+			"nachname": "Müller",
+			"partei": "CDU",
+			"websiteurl": "http://cduaxelmueller.de/",
+			"websiterssurl": "http://cduaxelmueller.de/feed/"
+	},
+	{
+			"vorname": "Claudia",
+			"nachname": "Müller",
+			"partei": "GRÜNE",
+			"twitter": "gruenclaudia",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/claudia-muller/archive/136724"
+	},
+	{
+			"vorname": "Alexander",
+			"nachname": "Müller",
+			"partei": "FDP",
+			"websiteurl": "http://alexmueller.de/",
+			"websiterssurl": "http://alexmueller.de/feed/"
+	},
+	{
+			"vorname": "Hansjörg",
+			"nachname": "Müller",
+			"partei": "AFD",
+			"twitter": "Mueller_AfD_MdB",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/hans-jorg-muller"
+	},
+	{
+			"vorname": "Gerhard",
+			"nachname": "Müller",
+			"partei": "CSU",
+			"websiteurl": "https://www.gerd-mueller.de/",
+			"websiterssurl": "https://www.gerd-mueller.de/feed/"
+	},
+	{
+			"vorname": "Carsten",
+			"nachname": "Müller",
+			"partei": "CDU",
+			"websiteurl": "http://www.carsten-mueller.com/home.html",
+			"websiterssurl": "http://www.carsten-mueller.com/home/rss.xml"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Müller",
+			"partei": "CSU",
+			"websiteurl": "https://www.stefanmueller.com/"
+	},
+	{
+			"vorname": "Sepp",
+			"nachname": "Müller",
+			"partei": "CDU",
+			"twitter": "mueller_sepp",
+			"websiteurl": "https://www.xn--sepp-mller-feb.de/"
+	},
+	{
+			"vorname": "Norbert",
+			"nachname": "Müller",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.norbert-mueller.net/"
+	},
+	{
+			"vorname": "Detlef",
+			"nachname": "Müller",
+			"partei": "SPD",
+			"websiteurl": "http://www.spd-mueller.de/",
+			"websiterssurl": "http://www.spd-mueller.de/feed/"
+	},
+	{
+			"vorname": "Bettina",
+			"nachname": "Müller",
+			"partei": "SPD",
+			"websiteurl": "https://www.muellerbettina.com/"
+	},
+	{
+			"vorname": "Roman",
+			"nachname": "Müller-Böhm",
+			"partei": "FDP",
+			"websiteurl": "https://www.fdp.de/kandidat/roman-mueller-boehm"
+	},
+	{
+			"vorname": "Beate",
+			"nachname": "Müller-Gemke",
+			"partei": "GRÜNE",
+			"twitter": "GrueneBeate",
+			"websiteurl": "http://www.mueller-gemmeke.de/",
+			"websiterssurl": "http://www.mueller-gemmeke.de/feed/"
+	},
+	{
+			"vorname": "Frank",
+			"nachname": "Müller-Rosentritt",
+			"partei": "FDP",
+			"websiteurl": "https://fmueller-rosentritt.2017.fdp.de/"
+	},
+	{
+			"vorname": "Michelle",
+			"nachname": "Müntefering",
+			"partei": "SPD",
+			"websiteurl": "https://www.michelle-muentefering.de/"
+	},
+	{
+			"vorname": "Voker",
+			"nachname": "Münz",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/volker-munz"
+	},
+	{
+			"vorname": "Sebastian",
+			"nachname": "Münzmaier",
+			"partei": "AFD",
+			"websiteurl": "http://www.sebastian-muenzenmaier.de/startseite"
+	},
+	{
+			"vorname": "Rolf",
+			"nachname": "Mützenich",
+			"partei": "SPD",
+			"websiteurl": "https://www.rolfmuetzenich.de/"
+	},
+	{
+			"vorname": "Andrea",
+			"nachname": "Nahles",
+			"partei": "SPD",
+			"websiteurl": "https://www.andrea-nahles.de/",
+			"websiterssurl": "https://www.andrea-nahles.de/feed/"
+	},
+	{
+			"vorname": "Zaklin",
+			"nachname": "Nastic",
+			"partei": "DIELINKE",
+			"websiteurl": "http://zaklin-js-nastic.de/",
+			"websiterssurl": "http://zaklin-js-nastic.de/feed"
+	},
+	{
+			"vorname": "Ingris",
+			"nachname": "Nestle",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.ingrid-nestle.de/"
+	},
+	{
+			"vorname": "Alexander",
+			"nachname": "Neu",
+			"partei": "DIELINKE",
+			"websiteurl": "http://neu-alexander.de/",
+			"websiterssurl": "http://neu-alexander.de/feed/"
+	},
+	{
+			"vorname": "Christoph",
+			"nachname": "Neumann",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/christoph-neumann"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Neumann",
+			"partei": "FDP",
+			"websiteurl": "http://www.fdp-brandenburg.de/landespartei/landesvorstand/martin-neumann/"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Nick",
+			"partei": "CDU",
+			"websiteurl": "https://www.dr-andreas-nick.de/"
+	},
+	{
+			"vorname": "Petra",
+			"nachname": "Nicolaisen",
+			"partei": "CDU",
+			"websiteurl": "http://www.petra-nicolaisen.de/"
+	},
+	{
+			"vorname": "Dietmar",
+			"nachname": "Nietan",
+			"partei": "SPD",
+			"websiteurl": "https://www.dietmar-nietan.de/"
+	},
+	{
+			"vorname": "Ulrike",
+			"nachname": "Nissen",
+			"partei": "SPD",
+			"twitter": "ullinissen",
+			"websiteurl": "http://www.ulli-nissen.de/"
+	},
+	{
+			"vorname": "Michaela",
+			"nachname": "Noll",
+			"partei": "CDU",
+			"websiteurl": "http://www.michaela-noll.de/content/aktuelles",
+			"websiterssurl": "http://www.michaela-noll.de/rss.xml"
+	},
+	{
+			"vorname": "Jan",
+			"nachname": "Nolte",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/jan-nolte"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Nord",
+			"partei": "DIELINKE",
+			"twitter": "nordmdb",
+			"websiteurl": "https://thomas-nord.de/",
+			"websiterssurl": "https://thomas-nord.de/feed/"
+	},
+	{
+			"vorname": "Konstantin",
+			"nachname": "von Notz",
+			"partei": "GRÜNE",
+			"websiteurl": "https://www.von-notz.de/",
+			"websiterssurl": "https://www.von-notz.de/feed/"
+	},
+	{
+			"vorname": "Omid",
+			"nachname": "Nouripour",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.nouripour.de/",
+			"websiterssurl": "http://www.nouripour.de/index.php?format=feed&type=rss"
+	},
+	{
+			"vorname": "Georg",
+			"nachname": "Nüßlein",
+			"partei": "CSU",
+			"websiteurl": "http://www.georgnuesslein.de/"
+	},
+	{
+			"vorname": "Ulrich",
+			"nachname": "Oehme",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/ulrich-oehme"
+	},
+	{
+			"vorname": "Wilfried",
+			"nachname": "Oellers",
+			"partei": "CDU",
+			"websiteurl": "http://www.wilfried-oellers.de/"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Oppermann",
+			"partei": "SPD",
+			"websiteurl": "https://www.thomasoppermann.de/",
+			"websiterssurl": "https://www.thomasoppermann.de/feed/"
+	},
+	{
+			"vorname": "Ortleb",
+			"nachname": "Josephine",
+			"partei": "SPD",
+			"websiteurl": "http://josephine-ortleb.de/",
+			"websiterssurl": "http://josephine-ortleb.de/feed/"
+	},
+	{
+			"vorname": "Florian",
+			"nachname": "Ossner",
+			"partei": "CSU",
+			"twitter": "florian_ossner",
+			"websiteurl": "https://www.florian-ossner.de/startseite.html"
+	},
+	{
+			"vorname": "Friedrich",
+			"nachname": "Ostendorf",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.f-ostendorff.de/start/"
+	},
+	{
+			"vorname": "Josef",
+			"nachname": "Oster",
+			"partei": "CDU",
+			"websiteurl": "https://www.josef-oster.de/",
+			"websiterssurl": "https://www.josef-oster.de/?format=feed&type=rss"
+	},
+	{
+			"vorname": "Henning",
+			"nachname": "Otte",
+			"partei": "CDU",
+			"websiteurl": "https://www.henning-otte.de/"
+	},
+	{
+			"vorname": "Gerold",
+			"nachname": "Otten",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/gerold-otten"
+	},
+	{
+			"vorname": "Cem",
+			"nachname": "Özdemir",
+			"partei": "GRÜNE",
+			"websiteurl": "https://www.oezdemir.de/"
+	},
+	{
+			"vorname": "Mahmut",
+			"nachname": "Özdemir",
+			"partei": "SPD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/mahmut-ozdemir"
+	},
+	{
+			"vorname": "Aydan",
+			"nachname": "Özoguz",
+			"partei": "SPD",
+			"websiteurl": "http://oezoguz.de/",
+			"websiterssurl": "http://oezoguz.de/feed/"
+	},
+	{
+			"vorname": "Pantel",
+			"nachname": "Sylvia",
+			"partei": "SPD",
+			"websiteurl": "http://sylvia-pantel.de/",
+			"websiterssurl": "http://sylvia-pantel.de/feed/"
+	},
+	{
+			"vorname": "Frank",
+			"nachname": "Pasemann",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/frank-pasemann"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Patzelt",
+			"partei": "CDU",
+			"websiteurl": "http://www.martin-patzelt.de/"
+	},
+	{
+			"vorname": "Petra",
+			"nachname": "Pau",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.petrapau.de/",
+			"websiterssurl": "https://www.petrapau.de/cgi-data/rss/feeds/neues.rss"
+	},
+	{
+			"vorname": "Lisa",
+			"nachname": "Paus",
+			"partei": "GRÜNE",
+			"websiteurl": "http://lisa-paus.de/",
+			"websiterssurl": "http://lisa-paus.de/feed/"
+	},
+	{
+			"vorname": "Sören",
+			"nachname": "Pellmann",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.soeren-pellmann.de/nc/home/home/",
+			"websiterssurl": "https://www.soeren-pellmann.de/nc/home/home/feed.rss"
+	},
+	{
+			"vorname": "Victor",
+			"nachname": "Perli",
+			"partei": "DIELINKE",
+			"websiteurl": "http://perli.de/",
+			"websiterssurl": "http://perli.de/feed/"
+	},
+	{
+			"vorname": "Tobias",
+			"nachname": "Peterka",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/tobias-matthias-peterka/archive/139249"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Petry",
+			"partei": "SPD",
+			"websiteurl": "http://christianpetry.de/",
+			"websiterssurl": "http://christianpetry.de/?feed=rss2"
+	},
+	{
+			"vorname": "Frauke",
+			"nachname": "Petry",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/frauke-petry"
+	},
+	{
+			"vorname": "Joachim",
+			"nachname": "Pfeiffer",
+			"partei": "CDU",
+			"websiteurl": "https://www.joachim-pfeiffer.info/"
+	},
+	{
+			"vorname": "Tobias",
+			"nachname": "Pflüger",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.tobias-pflueger.de/",
+			"websiterssurl": "http://linke-bw.de/tobiaspflueger/feed/"
+	},
+	{
+			"vorname": "Detlev",
+			"nachname": "Pilger",
+			"partei": "SPD",
+			"websiteurl": "http://www.detlevpilger.de/",
+			"websiterssurl": "http://www.detlevpilger.de/feed/"
+	},
+	{
+			"vorname": "Stephan",
+			"nachname": "Pilsinger",
+			"partei": "CSU",
+			"websiteurl": "http://stephan-pilsinger.de/",
+			"websiterssurl": "http://stephan-pilsinger.de/feed/"
+	},
+	{
+			"vorname": "Christoph",
+			"nachname": "Ploß",
+			"partei": "CDU",
+			"websiteurl": "http://www.christoph-ploss.de/"
+	},
+	{
+			"vorname": "Paul",
+			"nachname": "Podolay",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/paul-podolay"
+	},
+	{
+			"vorname": "Jürgen ",
+			"nachname": "Pohl",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/jurgen-pohl"
+	},
+	{
+			"vorname": "Filiz",
+			"nachname": "Pollat",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.filiz-polat.de/home.html",
+			"websiterssurl": "http://www.filiz-polat.de/home/rss.xml"
+	},
+	{
+			"vorname": "Eckard",
+			"nachname": "Pols",
+			"partei": "CDU",
+			"websiteurl": "http://www.pols-cdu.de/"
+	},
+	{
+			"vorname": "Sabine",
+			"nachname": "Poschmann",
+			"partei": "SPD",
+			"websiteurl": "http://www.sabine-poschmann.de/"
+	},
+	{
+			"vorname": "Achim",
+			"nachname": "Post",
+			"partei": "SPD",
+			"websiteurl": "http://achim-post.de/cms/",
+			"websiterssurl": "http://achim-post.de/cms/feed/"
+	},
+	{
+			"vorname": "Florian",
+			"nachname": "Post",
+			"partei": "SPD",
+			"websiteurl": "https://florian-post.de/"
+	},
+	{
+			"vorname": "Florian",
+			"nachname": "Pronold",
+			"partei": "SPD",
+			"websiteurl": "https://florianpronold.de/",
+			"websiterssurl": "https://florianpronold.de/news/rss/"
+	},
+	{
+			"vorname": "Stephan",
+			"nachname": "Protschka",
+			"partei": "AFD",
+			"websiteurl": "http://www.protschka.eu/"
+	},
+	{
+			"vorname": "Sascha",
+			"nachname": "Raabe",
+			"partei": "SPD",
+			"websiteurl": "http://www.sascha-raabe.de/html/-1/welcome/index.html"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Rabanus",
+			"partei": "SPD",
+			"websiteurl": "http://www.martin-rabanus.de/"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Rachel",
+			"partei": "CDU",
+			"websiteurl": "http://www.thomas-rachel.de/"
+	},
+	{
+			"vorname": "Kerstin",
+			"nachname": "Randomski",
+			"partei": "CDU",
+			"websiteurl": "http://www.kerstinradomski.net/",
+			"websiterssurl": "http://www.kerstinradomski.net/rss"
+	},
+	{
+			"vorname": "Alexander",
+			"nachname": "Alexander",
+			"partei": "CSU",
+			"websiteurl": "http://www.alexander-radwan.de/"
+	},
+	{
+			"vorname": "Alois",
+			"nachname": "Rainer",
+			"partei": "CSU",
+			"websiteurl": "http://www.alois-rainer.de/"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Ramsauer",
+			"partei": "CSU",
+			"websiteurl": "http://peter-ramsauer.de/",
+			"websiterssurl": "http://peter-ramsauer.de/feed/"
+	},
+	{
+			"vorname": "Eckhardt",
+			"nachname": "Rehberg",
+			"partei": "CDU",
+			"websiteurl": "http://www.eckhardt-rehberg.de/",
+			"websiterssurl": "http://www.eckhardt-rehberg.de/feed"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Reichhardt",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/martin-reichardt"
+	},
+	{
+			"vorname": "Carola",
+			"nachname": "Reimann",
+			"partei": "SPD",
+			"websiteurl": "http://www.carola-reimann.de/",
+			"websiterssurl": "http://www.carola-reimann.de/?format=feed&type=rss"
+	},
+	{
+			"vorname": "Hagen",
+			"nachname": "Reinhold",
+			"partei": "FDP",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/hagen-reinhold"
+	},
+	{
+			"vorname": "Ingrid",
+			"nachname": "Remmers",
+			"partei": "DIELINKE",
+			"twitter": "ingrid_remmers",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/ingrid-lieselotte-remmers"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Renner",
+			"partei": "AFD",
+			"websiteurl": "http://www.martin-e-renner.de/",
+			"websiterssurl": "http://www.martin-e-renner.de/?feed=rss2"
+	},
+	{
+			"vorname": "Marina",
+			"nachname": "Renner",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.martinarenner.de/"
+	},
+	{
+			"vorname": "Roman",
+			"nachname": "Reusch",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/roman-reusch"
+	},
+	{
+			"vorname": "Bernd",
+			"nachname": "Reuther",
+			"partei": "FDP",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/bernd-reuther"
+	},
+	{
+			"vorname": "Daniela",
+			"nachname": "De Ridder",
+			"partei": "SPD",
+			"websiteurl": "http://daniela-de-ridder.de/",
+			"websiterssurl": "http://daniela-de-ridder.de/feed/"
+	},
+	{
+			"vorname": "Lothar",
+			"nachname": "Riebsamen",
+			"partei": "CDU",
+			"websiteurl": "http://www.lothar-riebsamen.de/"
+	},
+	{
+			"vorname": "Josef",
+			"nachname": "Rief",
+			"partei": "CDU",
+			"websiteurl": "http://www.josef-rief.de/",
+			"websiterssurl": "http://www.josef-rief.de/feed/"
+	},
+	{
+			"vorname": "Berd",
+			"nachname": "Riexinger",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.bernd-riexinger.de/"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Rimkus",
+			"partei": "SPD",
+			"websiteurl": "http://andreas-rimkus.de/andreas-rimkus",
+			"websiterssurl": "http://andreas-rimkus.de/feed"
+	},
+	{
+			"vorname": "Sönke",
+			"nachname": "Rix",
+			"partei": "SPD",
+			"websiteurl": "http://www.soenke-rix.de/"
+	},
+	{
+			"vorname": "Dennis",
+			"nachname": "Rohde",
+			"partei": "SPD",
+			"twitter": "dennisrohde",
+			"websiteurl": "http://www.dennisrohde.de/",
+			"websiterssurl": "http://www.dennisrohde.de/feed"
+	},
+	{
+			"vorname": "Johannes",
+			"nachname": "Röring",
+			"partei": "CDU",
+			"websiteurl": "http://www.johannes-roering.de/"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Rosemann",
+			"partei": "SPD",
+			"websiteurl": "http://www.martin-rosemann.de/",
+			"websiterssurl": "http://www.martin-rosemann.de/feed"
+	},
+	{
+			"vorname": "Rene",
+			"nachname": "Röspel",
+			"partei": "SPD",
+			"websiteurl": "https://www.roespel.de/",
+			"websiterssurl": "http://5202353.de.strato-hosting.eu/cgi-data/rss/feeds/feed.rss"
+	},
+	{
+			"vorname": "Ernst",
+			"nachname": "Rossmann",
+			"partei": "SPD",
+			"websiteurl": "http://edr-pi.de/",
+			"websiterssurl": "http://edr-pi.de/feed/"
+	},
+	{
+			"vorname": "Tabea",
+			"nachname": "Rößner",
+			"partei": "GRÜNE",
+			"websiteurl": "http://tabea-roessner.de/",
+			"websiterssurl": "http://tabea-roessner.de/feed/"
+	},
+	{
+			"vorname": "Claudia",
+			"nachname": "Roth",
+			"partei": "GRÜNE",
+			"websiteurl": "https://claudia-roth.de/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Roth",
+			"partei": "SPD",
+			"websiteurl": "http://miro.hessenspd.net/html/-1/welcome/index.html",
+			"websiterssurl": "http://miro.hessenspd.net/rss/"
+	},
+	{
+			"vorname": "Norbert",
+			"nachname": "Röttgen",
+			"partei": "CDU",
+			"websiteurl": "http://www.norbert-roettgen.de/"
+	},
+	{
+			"vorname": "Manuela",
+			"nachname": "Rottmann",
+			"partei": "GRÜNE",
+			"websiteurl": "http://manuela-rottmann.de/startseite/"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Rouenhoff",
+			"partei": "CDU",
+			"websiteurl": "https://www.stefan-rouenhoff.de/",
+			"websiterssurl": "https://www.stefan-rouenhoff.de/feed/"
+	},
+	{
+			"vorname": "Erwin",
+			"nachname": "Rüddel",
+			"partei": "CDU",
+			"websiteurl": "http://www.erwin-rueddel.de/"
+	},
+	{
+			"vorname": "Corinna",
+			"nachname": "Rüffer",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.corinna-rueffer.de/",
+			"websiterssurl": "http://www.corinna-rueffer.de/feed/"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Ruppert",
+			"partei": "FDP",
+			"websiteurl": "https://www.stefan-ruppert.de/"
+	},
+	{
+			"vorname": "Albert",
+			"nachname": "Rupprecht",
+			"partei": "CSU",
+			"websiteurl": "http://www.albert-rupprecht.de/"
+	},
+	{
+			"vorname": "Susann",
+			"nachname": "Rüthrich",
+			"partei": "SPD",
+			"websiteurl": "https://www.susann-ruethrich.de/",
+			"websiterssurl": "https://www.susann-ruethrich.de/?feed=rss2"
+	},
+	{
+			"vorname": "Bernd",
+			"nachname": "Rützel",
+			"partei": "SPD",
+			"websiteurl": "https://bernd-ruetzel.de/"
+	},
+	{
+			"vorname": "Sarah",
+			"nachname": "Ryglewski",
+			"partei": "SPD",
+			"websiteurl": "http://www.sarah-ryglewski.de/"
+	},
+	{
+			"vorname": "Johannes",
+			"nachname": "Saathoff",
+			"partei": "SPD",
+			"websiteurl": "https://www.johann-saathoff.de/"
+	},
+	{
+			"vorname": "Manuel",
+			"nachname": "Sarrazin",
+			"partei": "GRÜNE",
+			"websiteurl": "https://manuelsarrazin.de/",
+			"websiterssurl": "https://manuelsarrazin.de/feed/"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Sattelberger",
+			"partei": "FDP",
+			"websiteurl": "https://thomas-sattelberger.de/",
+			"websiterssurl": "https://thomas-sattelberger.de/rss.xml"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Sauer",
+			"partei": "CDU",
+			"websiteurl": "https://www.stefan-sauer.de/"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Sauter",
+			"partei": "FDP",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/christian-sauter"
+	},
+	{
+			"vorname": "Axel",
+			"nachname": "Schäfer",
+			"partei": "SPD",
+			"websiteurl": "http://axelschaefer-mdb.de/",
+			"websiterssurl": "http://axelschaefer-mdb.de/feed/"
+	},
+	{
+			"vorname": "Anita",
+			"nachname": "Schäfer",
+			"partei": "CDU",
+			"websiteurl": "http://anita-schaefer.de/",
+			"websiterssurl": "http://anita-schaefer.de/?gibRSS=1"
+	},
+	{
+			"vorname": "Frank",
+			"nachname": "Schäffler",
+			"partei": "FDP",
+			"websiteurl": "http://www.frank-schaeffler.de/",
+			"websiterssurl": "http://www.frankschaeffler.de/feed/"
+	},
+	{
+			"vorname": "Wolfgang",
+			"nachname": "Schäuble",
+			"partei": "CDU",
+			"websiteurl": "http://www.wolfgang-schaeuble.de/"
+	},
+	{
+			"vorname": "Ulle",
+			"nachname": "Schauws",
+			"partei": "GRÜNE",
+			"websiteurl": "https://ulle-schauws.de/",
+			"websiterssurl": "https://ulle-schauws.de/feed/"
+	},
+	{
+			"vorname": "Nina",
+			"nachname": "Scheer",
+			"partei": "SPD",
+			"websiteurl": "http://www.nina-scheer.de/",
+			"websiterssurl": "http://www.nina-scheer.de/aktuell.feed?type=rss"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Scheuer",
+			"partei": "CSU",
+			"websiteurl": "http://www.andreas-scheuer.de/"
+	},
+	{
+			"vorname": "Gerhard",
+			"nachname": "Schick",
+			"partei": "GRÜNE",
+			"websiteurl": "http://gerhardschick.net/"
+	},
+	{
+			"vorname": "Marianne",
+			"nachname": "Schieder",
+			"partei": "SPD",
+			"websiteurl": "http://www.marianne-schieder.de/start/aktuelles/",
+			"websiterssurl": "http://marianne-schieder.de/start/aktuelles/?type=100"
+	},
+	{
+			"vorname": "Udo",
+			"nachname": "Schiefner",
+			"partei": "SPD",
+			"websiteurl": "http://udo-schiefner.de/"
+	},
+	{
+			"vorname": "Ulrike",
+			"nachname": "Schielke-Ziesng",
+			"partei": "AFD",
+			"websiteurl": "https://ulrike.schielke-ziesing.de/",
+			"websiterssurl": "https://ulrike.schielke-ziesing.de/feed/"
+	},
+	{
+			"vorname": "Jana",
+			"nachname": "Schimke",
+			"partei": "CDU",
+			"websiteurl": "http://www.jana-schimke.de/"
+	},
+	{
+			"vorname": "Wieland",
+			"nachname": "Schinnenburg",
+			"partei": "FDP",
+			"websiteurl": "http://fdp-schinnenburg.de/",
+			"websiterssurl": "http://fdp-schinnenburg.de/feed/"
+	},
+	{
+			"vorname": "Tankred",
+			"nachname": "Schipanski",
+			"partei": "CDU",
+			"websiteurl": "https://www.tankred-schipanski.de/",
+			"websiterssurl": "https://www.tankred-schipanski.de/feed"
+	},
+	{
+			"vorname": "Robby",
+			"nachname": "Schlund",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/robby-schlund"
+	},
+	{
+			"vorname": "Nils",
+			"nachname": "Schmid",
+			"partei": "SPD",
+			"websiteurl": "https://nils-schmid.spd.de/",
+			"websiterssurl": "https://nils-schmid.spd.de/aktuelles/feed.rss"
+	},
+	{
+			"vorname": "Uwe",
+			"nachname": "Schmidt",
+			"partei": "SPD",
+			"websiteurl": "http://uwe-schmidt.org/",
+			"websiterssurl": "http://uwe-schmidt.org/feed/"
+	},
+	{
+			"vorname": "Dagmar",
+			"nachname": "Schmidt",
+			"partei": "SPD",
+			"websiteurl": "http://www.dagmarschmidt.de/"
+	},
+	{
+			"vorname": "Frithjof",
+			"nachname": "Schmidt",
+			"partei": "GRÜNE",
+			"websiteurl": "http://frithjof-schmidt.de/",
+			"websiterssurl": "http://frithjof-schmidt.de/feed/"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Schmidt",
+			"partei": "CSU",
+			"websiteurl": "http://www.christian-schmidt.de/index.php",
+			"websiterssurl": "http://www.christian-schmidt.de/service/rss.php"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Schmidt",
+			"partei": "GRÜNE",
+			"websiteurl": "http://stefan-schmidt.eu/",
+			"websiterssurl": "http://stefan-schmidt.eu/feed/"
+	},
+	{
+			"vorname": "Ulla",
+			"nachname": "Schmidt",
+			"partei": "SPD",
+			"websiteurl": "http://ullafueraachen.de/",
+			"websiterssurl": "http://ullafueraachen.de/feed/"
+	},
+	{
+			"vorname": "Claudia",
+			"nachname": "Schmidtke",
+			"partei": "CDU",
+			"websiteurl": "https://www.waehltclaudia.de/",
+			"websiterssurl": "https://www.waehltclaudia.de/feed.xml"
+	},
+	{
+			"vorname": "Carsten",
+			"nachname": "Schneider",
+			"partei": "SPD",
+			"websiteurl": "http://www.carsten-schneider.de/",
+			"websiterssurl": "http://www.carsten-schneider.de/feed/"
+	},
+	{
+			"vorname": "Jörg",
+			"nachname": "Schneider",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/jorg-schneider"
+	},
+	{
+			"vorname": "Patrick",
+			"nachname": "Schnieder",
+			"partei": "CDU",
+			"websiteurl": "http://www.patrick-schnieder.de/"
+	},
+	{
+			"vorname": "Nadine",
+			"nachname": "Schön",
+			"partei": "CDU",
+			"websiteurl": "http://www.nadine-schoen.de/",
+			"websiterssurl": "http://www.nadine-schoen.de/feed/"
+	},
+	{
+			"vorname": "Johannes",
+			"nachname": "Schraps",
+			"partei": "SPD",
+			"websiteurl": "https://www.johannes-schraps.de/"
+	},
+	{
+			"vorname": "Eva-Maria",
+			"nachname": "Schreiber",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/eva-schreiber"
+	},
+	{
+			"vorname": "Felix",
+			"nachname": "Schreiner",
+			"partei": "CDU",
+			"websiteurl": "http://www.felix-schreiner.de/felix-schreiner/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Schrodi",
+			"partei": "SPD",
+			"websiteurl": "https://michael-schrodi.de/",
+			"websiterssurl": "https://michael-schrodi.de/news/rss/"
+	},
+	{
+			"vorname": "Manja",
+			"nachname": "Schüle",
+			"partei": "SPD",
+			"websiteurl": "http://www.manja-schuele.de/",
+			"websiterssurl": "http://www.manja-schuele.de/feed/"
+	},
+	{
+			"vorname": "Ursula",
+			"nachname": "Schulte",
+			"partei": "SPD",
+			"websiteurl": "https://ursula-schulte.de/",
+			"websiterssurl": "https://ursula-schulte.de/index.php?format=feed&type=rss"
+	},
+	{
+			"vorname": "Jimmy",
+			"nachname": "Schultz",
+			"partei": "FDP",
+			"websiteurl": "http://jimmy-schulz.de/",
+			"websiterssurl": "http://jimmy-schulz.de/feed/"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Schulz",
+			"partei": "SPD",
+			"websiteurl": "https://martinschulz.de/"
+	},
+	{
+			"vorname": "Uwe",
+			"nachname": "Schulz",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/uwe-schulz-2"
+	},
+	{
+			"vorname": "Swen",
+			"nachname": "Schulz",
+			"partei": "SPD",
+			"websiteurl": "http://www.swen-schulz.de/"
+	},
+	{
+			"vorname": "Kordula",
+			"nachname": "Schulz-Asche",
+			"partei": "GRÜNE",
+			"websiteurl": "https://www.schulz-asche.de/"
+	},
+	{
+			"vorname": "Klaus-Peter",
+			"nachname": "Schulze",
+			"partei": "CDU",
+			"websiteurl": "http://www.klaus-peter-schulze.de/",
+			"websiterssurl": "http://klaus-peter-schulze.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Uwe",
+			"nachname": "Schummer",
+			"partei": "CDU",
+			"websiteurl": "http://uwe-schummer.de/",
+			"websiterssurl": "http://uwe-schummer.de/feed/"
+	},
+	{
+			"vorname": "Ewald",
+			"nachname": "Schurer",
+			"partei": "SPD",
+			"websiteurl": "https://ewald-schurer.de/",
+			"websiterssurl": "https://ewald-schurer.de/news/rss/"
+	},
+	{
+			"vorname": "Armin",
+			"nachname": "Schuster",
+			"partei": "CDU",
+			"websiteurl": "https://www.armin-schuster.de/",
+			"websiterssurl": "https://www.armin-schuster.de/rss/blog"
+	},
+	{
+			"vorname": "Frank",
+			"nachname": "Schwabe",
+			"partei": "SPD",
+			"websiteurl": "http://www.frank-schwabe.de/"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Schwartze",
+			"partei": "SPD",
+			"websiteurl": "http://www.stefan-schwartze.de/"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Schwarz",
+			"partei": "SPD",
+			"websiteurl": "http://www.spd-schwarz.de/",
+			"websiterssurl": "http://www.spd-schwarz.de/feed/"
+	},
+	{
+			"vorname": "Rita",
+			"nachname": "Schwarzelühr-Sutter",
+			"partei": "SPD",
+			"websiteurl": "https://xn--schwarzelhr-sutter-u6b.de/",
+			"websiterssurl": "https://xn--schwarzelhr-sutter-u6b.de/feed/"
+	},
+	{
+			"vorname": "Torsten",
+			"nachname": "Schweiger",
+			"partei": "CDU",
+			"websiteurl": "http://www.cdu-schweiger.de/",
+			"websiterssurl": "http://cdu-schweiger.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Matthias",
+			"nachname": "Seestern-Pauly",
+			"partei": "FDP",
+			"websiteurl": "https://www.seestern-pauly.de/",
+			"websiterssurl": "https://www.seestern-pauly.de/feed/"
+	},
+	{
+			"vorname": "Detlef",
+			"nachname": "Seif",
+			"partei": "CDU",
+			"websiteurl": "http://www.detlef-seif-cdu.de/"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Seitz",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/thomas-seitz"
+	},
+	{
+			"vorname": "Johannes",
+			"nachname": "Selle",
+			"partei": "CDU",
+			"websiteurl": "http://www.johannes-selle.de/"
+	},
+	{
+			"vorname": "Reinhold",
+			"nachname": "Sendker",
+			"partei": "CDU",
+			"websiteurl": "http://www.cdu-sendker.de/"
+	},
+	{
+			"vorname": "Patrick",
+			"nachname": "Sensburg",
+			"partei": "CDU",
+			"websiteurl": "http://www.patrick-sensburg.de/"
+	},
+	{
+			"vorname": "Martin",
+			"nachname": "Sichert",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/martin-sichert"
+	},
+	{
+			"vorname": "Thomas",
+			"nachname": "Silberhorn",
+			"partei": "CSU",
+			"websiteurl": "http://www.thomas-silberhorn.de/"
+	},
+	{
+			"vorname": "Björn",
+			"nachname": "Simon",
+			"partei": "CDU",
+			"websiteurl": "https://www.xn--bjrn-simon-fcb.de/"
+	},
+	{
+			"vorname": "Petra",
+			"nachname": "Sitte",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.petra-sitte.de/",
+			"websiterssurl": "http://www.petra-sitte.de/feed/"
+	},
+	{
+			"vorname": "Judith",
+			"nachname": "Skudenly",
+			"partei": "FDP",
+			"websiteurl": "https://www.judith-skudelny.de/"
+	},
+	{
+			"vorname": "Hermann Otto",
+			"nachname": "Solms",
+			"partei": "FDP",
+			"websiteurl": "http://www.hermann-otto-solms.de/"
+	},
+	{
+			"vorname": "Evrim",
+			"nachname": "Sommer",
+			"partei": "DIELINKE",
+			"websiteurl": "http://evrimsommer.de/",
+			"websiterssurl": "http://evrimsommer.de/rss.xml"
+	},
+	{
+			"vorname": "Tino",
+			"nachname": "Sorge",
+			"partei": "CDU",
+			"websiteurl": "https://www.tino-sorge.de/"
+	},
+	{
+			"vorname": "Jens",
+			"nachname": "Spahn",
+			"partei": "CDU",
+			"websiteurl": "http://www.jens-spahn.de/"
+	},
+	{
+			"vorname": "Detlev",
+			"nachname": "Spangenberg",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/detlev-spangenberg"
+	},
+	{
+			"vorname": "Dirk",
+			"nachname": "Spaniel",
+			"partei": "AFD",
+			"websiteurl": "http://www.dirkspaniel.de/"
+	},
+	{
+			"vorname": "Rainer",
+			"nachname": "Spiering",
+			"partei": "SPD",
+			"websiteurl": "http://www.rainer-spiering.de/",
+			"websiterssurl": "http://feeds.feedburner.com/RainerSpieringMdB"
+	},
+	{
+			"vorname": "Rene",
+			"nachname": "Springer",
+			"partei": "AFD",
+			"websiteurl": "http://rene-springer.info/",
+			"websiterssurl": "http://rene-springer.info/feed/"
+	},
+	{
+			"vorname": "Svenja",
+			"nachname": "Stadler",
+			"partei": "SPD",
+			"websiteurl": "https://svenja-stadler.de/",
+			"websiterssurl": "https://svenja-stadler.de/meta/rss/feed.xml"
+	},
+	{
+			"vorname": "Katrin",
+			"nachname": "Staffler",
+			"partei": "CSU",
+			"websiteurl": "https://katrin-staffler.de/",
+			"websiterssurl": "https://katrin-staffler.de/feed/"
+	},
+	{
+			"vorname": "Martina",
+			"nachname": "Stamm-Fibich",
+			"partei": "SPD",
+			"websiteurl": "http://stamm-fibich.de/",
+			"websiterssurl": "http://stamm-fibich.de/feed/"
+	},
+	{
+			"vorname": "Bettina",
+			"nachname": "Stark-Watzinger",
+			"partei": "FDP",
+			"websiteurl": "http://stark-watzinger.de/"
+	},
+	{
+			"vorname": "Frank",
+			"nachname": "Steffel",
+			"partei": "CDU",
+			"websiteurl": "http://www.frank-steffel.de/"
+	},
+	{
+			"vorname": "Sonja",
+			"nachname": "Steffen",
+			"partei": "SPD",
+			"websiteurl": "https://www.sonja-steffen.de/",
+			"websiterssurl": "https://www.sonja-steffen.de/aktuelles.feed?type=rss"
+	},
+	{
+			"vorname": "Wolfgang",
+			"nachname": "Stefinger",
+			"partei": "CSU",
+			"websiteurl": "https://wolfgang-stefinger.de/",
+			"websiterssurl": "https://wolfgang-stefinger.de/feed/"
+	},
+	{
+			"vorname": "Albert",
+			"nachname": "Stegemann",
+			"partei": "CDU",
+			"websiteurl": "http://www.albert-stegemann.de/",
+			"websiterssurl": "http://www.albert-stegemann.de/feed/"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Steier",
+			"partei": "CDU",
+			"websiteurl": "http://www.andreas-steier.de/",
+			"websiterssurl": "http://www.andreas-steier.de/feed/"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Stein",
+			"partei": "CDU",
+			"websiteurl": "http://www.stein-cdu.de/",
+			"websiterssurl": "http://www.stein-cdu.de/index.php?format=feed&type=rss"
+	},
+	{
+			"vorname": "Mathias",
+			"nachname": "Stein",
+			"partei": "SPD",
+			"websiteurl": "http://mathias-stein.info/",
+			"websiterssurl": "http://mathias-stein.info/feed/"
+	},
+	{
+			"vorname": "Sebastian",
+			"nachname": "Steineke",
+			"partei": "CDU",
+			"websiteurl": "http://www.sebastian-steineke.de/",
+			"websiterssurl": "http://sebastian-steineke.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Johannes",
+			"nachname": "Steininger",
+			"partei": "CDU",
+			"websiteurl": "https://johannes-steiniger.de/"
+	},
+	{
+			"vorname": "Kersten",
+			"nachname": "Steinke",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.kersten-steinke.de/"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Stetten",
+			"partei": "CDU",
+			"websiteurl": "https://www.christian-stetten.de/",
+			"websiterssurl": "https://www.christian-stetten.de/?format=feed&type=rss"
+	},
+	{
+			"vorname": "Dieter",
+			"nachname": "Stier",
+			"partei": "CDU",
+			"websiteurl": "http://www.dieterstier.de/",
+			"websiterssurl": "http://www.dieterstier.de/cms/feed/"
+	},
+	{
+			"vorname": "Beatrix",
+			"nachname": "Storch",
+			"partei": "AFD",
+			"websiteurl": "https://beatrixvonstorch.de/",
+			"websiterssurl": "https://beatrixvonstorch.de/feed/"
+	},
+	{
+			"vorname": "Gerold",
+			"nachname": "Storjohann",
+			"partei": "CDU",
+			"websiteurl": "http://www.gero-storjohann.de/",
+			"websiterssurl": "http://www.gero-storjohann.de/feed/"
+	},
+	{
+			"vorname": "Stephan",
+			"nachname": "Stracke",
+			"partei": "CSU",
+			"websiteurl": "https://www.stephan-stracke.de/"
+	},
+	{
+			"vorname": "Marie-Agnes",
+			"nachname": "Strack-Zimmermann",
+			"partei": "FDP",
+			"websiteurl": "https://www.strackzimmermann.de/",
+			"websiterssurl": "https://www.strackzimmermann.de/rss/blog"
+	},
+	{
+			"vorname": "Friedrich",
+			"nachname": "Sraetmanns",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/friedrich-straetmanns"
+	},
+	{
+			"vorname": "Benjamin",
+			"nachname": "Strasser",
+			"partei": "FDP",
+			"websiteurl": "https://www.benjamin-strasser.de/"
+	},
+	{
+			"vorname": "Max",
+			"nachname": "Straubinger",
+			"partei": "CSU",
+			"websiteurl": "http://www.max-straubinger.de/"
+	},
+	{
+			"vorname": "Wolfgang",
+			"nachname": "Strengmann-Kuhn",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.strengmann-kuhn.de/start.html"
+	},
+	{
+			"vorname": "Karing",
+			"nachname": "Strenz",
+			"partei": "CDU",
+			"websiteurl": "http://www.strenz.de/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Stübgen",
+			"partei": "CDU",
+			"websiteurl": "http://www.stuebgen.de/"
+	},
+	{
+			"vorname": "Margit",
+			"nachname": "Stump",
+			"partei": "GRÜNE",
+			"websiteurl": "https://margit-stumpp.de/"
+	},
+	{
+			"vorname": "Suding",
+			"nachname": "Katja",
+			"partei": "FDP",
+			"websiteurl": "http://www.katjasuding.de/"
+	},
+	{
+			"vorname": "Kerstin",
+			"nachname": "Tack",
+			"partei": "SPD",
+			"websiteurl": "https://kerstin-tack.de/",
+			"websiterssurl": "https://kerstin-tack.de/meta/rss/feed.xml"
+	},
+	{
+			"vorname": "Kirsten",
+			"nachname": "Tackmann",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.kirstentackmann.de/",
+			"websiterssurl": "http://www.kirstentackmann.de/feed/"
+	},
+	{
+			"vorname": "Jessica",
+			"nachname": "Tatti",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/jessica-tatti"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Tauber",
+			"partei": "CDU",
+			"websiteurl": "http://www.petertauber.de/",
+			"websiterssurl": "http://www.petertauber.de/feed/"
+	},
+	{
+			"vorname": "Claudia",
+			"nachname": "Tausend",
+			"partei": "SPD",
+			"websiteurl": "https://claudia-tausend.de/",
+			"websiterssurl": "https://claudia-tausend.de/news/rss/"
+	},
+	{
+			"vorname": "Hermann-Josef",
+			"nachname": "Tebroke",
+			"partei": "CDU",
+			"websiteurl": "http://www.tebroke-rbk.de/"
+	},
+	{
+			"vorname": "Linda",
+			"nachname": "Teuteberg",
+			"partei": "FDP",
+			"websiteurl": "https://lteuteberg.abgeordnete.fdpbt.de/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Theurer",
+			"partei": "FDP",
+			"websiteurl": "http://www.michaeltheurer.eu/"
+	},
+	{
+			"vorname": "Michael",
+			"nachname": "Thews",
+			"partei": "SPD",
+			"websiteurl": "http://michael-thews.com/",
+			"websiterssurl": "http://michael-thews.com/feed/"
+	},
+	{
+			"vorname": "Hans-Jürgen",
+			"nachname": "Thies",
+			"partei": "CDU",
+			"websiteurl": "https://www.hans-juergen-thies.de/"
+	},
+	{
+			"vorname": "Stephan",
+			"nachname": "Thomae",
+			"partei": "FDP",
+			"websiteurl": "https://stephan-thomae.de/",
+			"websiterssurl": "https://stephan-thomae.de/feed/"
+	},
+	{
+			"vorname": "Alexander",
+			"nachname": "Throm",
+			"partei": "CDU",
+			"websiteurl": "http://www.alexander-throm.de/",
+			"websiterssurl": "http://alexander-throm.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Dietlind",
+			"nachname": "Tiemann",
+			"partei": "CDU",
+			"websiteurl": "https://www.dietlind-tiemann.de/",
+			"websiterssurl": "https://www.dietlind-tiemann.de/feed.xml"
+	},
+	{
+			"vorname": "Antje",
+			"nachname": "TIllmann",
+			"partei": "CDU",
+			"websiteurl": "http://www.antje-tillmann.de/"
+	},
+	{
+			"vorname": "Manfred",
+			"nachname": "Todtenhausen",
+			"partei": "FDP",
+			"websiteurl": "https://mtodtenhausen.2017.fdp.de/"
+	},
+	{
+			"vorname": "Florian",
+			"nachname": "Toncar",
+			"partei": "FDP",
+			"websiteurl": "https://www.toncar.de/"
+	},
+	{
+			"vorname": "Markus",
+			"nachname": "Töns",
+			"partei": "SPD",
+			"websiteurl": "http://www.markus-toens.de/",
+			"websiterssurl": "http://www.markus-toens.de/feed/"
+	},
+	{
+			"vorname": "Markus",
+			"nachname": "Tressel",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.markus-tressel.de/startseite.html",
+			"websiterssurl": "http://www.markus-tressel.de/startseite/rss091.xml"
+	},
+	{
+			"vorname": "Jürgen ",
+			"nachname": "Trittin",
+			"partei": "GRÜNE",
+			"websiteurl": "https://www.trittin.de/",
+			"websiterssurl": "https://www.trittin.de/feed/"
+	},
+	{
+			"vorname": "Markus",
+			"nachname": "Uhl",
+			"partei": "CDU",
+			"websiteurl": "https://markusuhl.de/"
+	},
+	{
+			"vorname": "Andrew",
+			"nachname": "Ullmann",
+			"partei": "FDP",
+			"websiteurl": "https://www.andrew-ullmann.de/",
+			"websiterssurl": "https://www.andrew-ullmann.de/feed/"
+	},
+	{
+			"vorname": "Gerald",
+			"nachname": "Ullrich",
+			"partei": "FDP",
+			"websiteurl": "https://gullrich.2017.fdp.de/"
+	},
+	{
+			"vorname": "Volker",
+			"nachname": "Ullrich",
+			"partei": "CSU",
+			"websiteurl": "https://volker-ullrich.de/",
+			"websiterssurl": "https://volker-ullrich.de/feed/"
+	},
+	{
+			"vorname": "Alexander ",
+			"nachname": "Ulrich",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.mdb-alexander-ulrich.de/politik/aktuell/"
+	},
+	{
+			"vorname": "Arnold",
+			"nachname": "Vatz",
+			"partei": "CDU",
+			"websiteurl": "https://www.arnold-vaatz-mdb.de/",
+			"websiterssurl": "https://www.arnold-vaatz-mdb.de/rss/blog"
+	},
+	{
+			"vorname": "Oswin",
+			"nachname": "Veith",
+			"partei": "CDU",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/oswin-veith/archive/214778"
+	},
+	{
+			"vorname": "Julia",
+			"nachname": "Verlinden",
+			"partei": "GRÜNE",
+			"websiteurl": "http://julia-verlinden.de/start/"
+	},
+	{
+			"vorname": "Kerstin",
+			"nachname": "Vieregge",
+			"partei": "CDU",
+			"websiteurl": "http://www.kerstin-vieregge.de/"
+	},
+	{
+			"vorname": "Volkmar",
+			"nachname": "Vogel",
+			"partei": "CDU",
+			"websiteurl": "http://www.volkmar-vogel.de/",
+			"websiterssurl": "http://volkmar-vogel.de/rss/rss_feed.php"
+	},
+	{
+			"vorname": "Johannes",
+			"nachname": "Vogel",
+			"partei": "FDP",
+			"websiteurl": "http://www.johannes-vogel.de/start/",
+			"websiterssurl": "http://www.johannes-vogel.de/start/rss091.xml"
+	},
+	{
+			"vorname": "Kathrin",
+			"nachname": "Vogler",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.kathrin-vogler.de/start/aktuell/",
+			"websiterssurl": "https://www.kathrin-vogler.de/start/aktuell/feed.rss"
+	},
+	{
+			"vorname": "Ute",
+			"nachname": "Vogt",
+			"partei": "SPD",
+			"websiteurl": "https://www.ute-vogt.de/",
+			"websiterssurl": "https://www.ute-vogt.de/index.xml"
+	},
+	{
+			"vorname": "Dirk",
+			"nachname": "Vöpel",
+			"partei": "SPD",
+			"websiteurl": "http://www.dirk-voepel.de/",
+			"websiterssurl": "http://www.dirk-voepel.de/feed/"
+	},
+	{
+			"vorname": "Kees",
+			"nachname": "de Vries",
+			"partei": "CDU",
+			"websiteurl": "http://keesdevries.de/"
+	},
+	{
+			"vorname": "Christoph",
+			"nachname": "de Vries",
+			"partei": "CDU",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/christoph-de-vries"
+	},
+	{
+			"vorname": "Johann",
+			"nachname": "Wadephul",
+			"partei": "CDU",
+			"websiteurl": "http://www.johann-wadephul.de/"
+	},
+	{
+			"vorname": "Sarah",
+			"nachname": "Wagenknecht",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.sahra-wagenknecht.de/",
+			"websiterssurl": "https://www.sahra-wagenknecht.de/de/rss/container/8.rss"
+	},
+	{
+			"vorname": "Daniela",
+			"nachname": "Wagner",
+			"partei": "GRÜNE",
+			"websiteurl": "https://www.daniela-wagner.net/",
+			"websiterssurl": "https://www.daniela-wagner.net/feed/"
+	},
+	{
+			"vorname": "Andreas",
+			"nachname": "Wagner",
+			"partei": "DIELINKE",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/andreas-wagner-2/archive/136351"
+	},
+	{
+			"vorname": "Beate",
+			"nachname": "Walter-Rosenheimer",
+			"partei": "GRÜNE",
+			"websiteurl": "http://www.beate-walter-rosenheimer.de/",
+			"websiterssurl": "http://www.beate-walter-rosenheimer.de/?format=feed&type=rss"
+	},
+	{
+			"vorname": "Marco",
+			"nachname": "Wanderwitz",
+			"partei": "CDU",
+			"websiteurl": "http://www.wanderwitz.de/",
+			"websiterssurl": "http://www.wanderwitz.de/feed/"
+	},
+	{
+			"vorname": "Gabi",
+			"nachname": "Weber",
+			"partei": "SPD",
+			"websiteurl": "http://www.gabi-weber-spd.de/",
+			"websiterssurl": "http://www.gabi-weber-spd.de/index.xml"
+	},
+	{
+			"vorname": "Sandra",
+			"nachname": "Weeser",
+			"partei": "FDP",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/sandra-weeser"
+	},
+	{
+			"vorname": "Kai",
+			"nachname": "Wegner",
+			"partei": "CDU",
+			"websiteurl": "http://www.kai-wegner.de/",
+			"websiterssurl": "http://www.kai-wegner.de/feed/"
+	},
+	{
+			"vorname": "Alice",
+			"nachname": "Weidel",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/dr-alice-weidel"
+	},
+	{
+			"vorname": "Albert",
+			"nachname": "Weiler",
+			"partei": "CDU",
+			"websiteurl": "https://www.albert-weiler.de/"
+	},
+	{
+			"vorname": "Marcus",
+			"nachname": "Weinberg",
+			"partei": "CDU",
+			"websiteurl": "http://www.marcusweinberg.de/"
+	},
+	{
+			"vorname": "Harald",
+			"nachname": "Weinberg",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.harald-weinberg.de/"
+	},
+	{
+			"vorname": "Anja",
+			"nachname": "Weisgerber",
+			"partei": "CSU",
+			"websiteurl": "http://www.anja-weisgerber.de/"
+	},
+	{
+			"vorname": "Peter",
+			"nachname": "Weiß",
+			"partei": "CDU",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/peter-weis"
+	},
+	{
+			"vorname": "Sabine",
+			"nachname": "Weiss",
+			"partei": "CDU",
+			"websiteurl": "http://www.sabine-weiss.de/"
+	},
+	{
+			"vorname": "Ingo",
+			"nachname": "Wellenreuther",
+			"partei": "CDU",
+			"websiteurl": "http://www.ingo-wellenreuther.de/"
+	},
+	{
+			"vorname": "Marian",
+			"nachname": "Wendt",
+			"partei": "CDU",
+			"websiteurl": "https://www.marian-wendt.de/"
+	},
+	{
+			"vorname": "Katrin",
+			"nachname": "Werner",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.katrinwerner.de/nc/start/aktuelles/"
+	},
+	{
+			"vorname": "Nicole",
+			"nachname": "Westig",
+			"partei": "FDP",
+			"websiteurl": "https://www.nicole-westig.de/",
+			"websiterssurl": "https://www.nicole-westig.de/rss/blog"
+	},
+	{
+			"vorname": "Bernd",
+			"nachname": "Westphal",
+			"partei": "SPD",
+			"websiteurl": "http://berndwestphal.de/"
+	},
+	{
+			"vorname": "Harald",
+			"nachname": "Weyel",
+			"partei": "AFD",
+			"websiteurl": "http://harald-weyel.de/",
+			"websiterssurl": "http://harald-weyel.de/feed/"
+	},
+	{
+			"vorname": "Kai",
+			"nachname": "Whittaker",
+			"partei": "CDU",
+			"websiteurl": "http://www.whittaker.de/",
+			"websiterssurl": "http://www.whittaker.de/feed/"
+	},
+	{
+			"vorname": "Annette",
+			"nachname": "Widmann-Mauz",
+			"partei": "CDU",
+			"websiteurl": "https://www.widmann-mauz.de/",
+			"websiterssurl": "https://www.widmann-mauz.de/feed/"
+	},
+	{
+			"vorname": "Wolfgang",
+			"nachname": "Wiehle",
+			"partei": "AFD",
+			"websiteurl": "https://www.wolfgang-wiehle.de/",
+			"websiterssurl": "https://www.wolfgang-wiehle.de/feed/"
+	},
+	{
+			"vorname": "Dirk",
+			"nachname": "Wiese",
+			"partei": "SPD",
+			"websiteurl": "https://dirkwiese.de/"
+	},
+	{
+			"vorname": "Bettina",
+			"nachname": "Wiesmann",
+			"partei": "CDU",
+			"websiteurl": "http://www.bmwiesmann.de/"
+	},
+	{
+			"vorname": "Heiko",
+			"nachname": "Wildberg",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/heiko-wildberg"
+	},
+	{
+			"vorname": "Klaus-Peter",
+			"nachname": "Wilsch",
+			"partei": "CDU",
+			"websiteurl": "https://www.klaus-peter-willsch.de/"
+	},
+	{
+			"vorname": "Elisabeth",
+			"nachname": "Winkelmeier-Becker",
+			"partei": "CDU",
+			"websiteurl": "http://www.elisabeth-winkelmeier-becker.de/"
+	},
+	{
+			"vorname": "Christian",
+			"nachname": "Wirth",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/christian-wirth"
+	},
+	{
+			"vorname": "Uwe",
+			"nachname": "Witt",
+			"partei": "AFD",
+			"websiteurl": "https://www.abgeordnetenwatch.de/profile/uwe-witt"
+	},
+	{
+			"vorname": "Oliver",
+			"nachname": "Wittke",
+			"partei": "CDU",
+			"websiteurl": "http://www.oliver-wittke.com/",
+			"websiterssurl": "http://www.oliver-wittke.com/feed/"
+	},
+	{
+			"vorname": "Gülistan",
+			"nachname": "Yüksel",
+			"partei": "SPD",
+			"websiteurl": "http://www.guelistan-yueksel.de/",
+			"websiterssurl": "http://www.guelistan-yueksel.de/feed/"
+	},
+	{
+			"vorname": "Hubertus",
+			"nachname": "Zdebel",
+			"partei": "DIELINKE",
+			"websiteurl": "http://www.hubertus-zdebel.de/",
+			"websiterssurl": "http://www.hubertus-zdebel.de/feed/"
+	},
+	{
+			"vorname": "Emmi",
+			"nachname": "Zeulner",
+			"partei": "CSU",
+			"websiteurl": "http://emmi-zeulner.de/",
+			"websiterssurl": "http://emmi-zeulner.de/feed/"
+	},
+	{
+			"vorname": "Dagmar",
+			"nachname": "Ziegler",
+			"partei": "SPD",
+			"websiteurl": "http://www.dagmar-ziegler.de/",
+			"websiterssurl": "http://www.dagmar-ziegler.de/?format=feed&type=rss"
+	},
+	{
+			"vorname": "Paul",
+			"nachname": "Ziemiak",
+			"partei": "CDU",
+			"websiteurl": "http://www.paul-ziemiak.de/"
+	},
+	{
+			"vorname": "Stefan",
+			"nachname": "Zierke",
+			"partei": "SPD",
+			"websiteurl": "http://www.stefan-zierke.de/stefan-zierke-spd/"
+	},
+	{
+			"vorname": "Mahias",
+			"nachname": "Zimmer",
+			"partei": "CDU",
+			"websiteurl": "https://www.matthias-zimmer.de/",
+			"websiterssurl": "https://www.matthias-zimmer.de/aktuelles/feed/"
+	},
+	{
+			"vorname": "Sabine",
+			"nachname": "Zimmermann",
+			"partei": "DIELINKE",
+			"websiteurl": "http://sabine-zimmermann.info/",
+			"websiterssurl": "http://sabine-zimmermann.info/feed/"
+	},
+	{
+			"vorname": "Pia-Beate",
+			"nachname": "Zimmermann",
+			"partei": "DIELINKE",
+			"websiteurl": "http://pia-zimmermann.de/",
+			"websiterssurl": "http://pia-zimmermann.de/feed/"
+	},
+	{
+			"vorname": "Jens",
+			"nachname": "Zimmermann",
+			"partei": "SPD",
+			"websiteurl": "https://www.jens-zimmermann.org/"
+	}
+]
