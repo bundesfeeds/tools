@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {  
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sebastian Schürmann",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "headless-chrome-crawler": "^1.8.0",
+    "puppeteer": "^1.9.0",
+    "rss-watcher": "^1.4.0",
+    "website-scraper": "^3.3.7"
+  }
 }

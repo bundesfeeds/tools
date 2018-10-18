@@ -268,7 +268,7 @@
 			"nachname": "beeck",
 			"partei": "FDP",
 			"facebook": "jensbeeck.de",
-			"websiteurl": "http://jens-beeck.de/start/"
+			"websiteurl": "http://jens-beeck.de/"
 	},
 	{
 			"vorname": "Olaf",
@@ -695,7 +695,7 @@
 			"nachname": "Cronenberg",
 			"partei": "FDP",
 			"facebook": "Carlo-Cronenberg-1598008726876796",
-			"websiteurl": "https://www.fdp.de/kandidat/carl-julius-cronenberg"
+			"websiteurl": "https://carlo-cronenberg.de/"
 	},
 	{
 			"vorname": "Gottfried",
@@ -907,7 +907,7 @@
 			"nachname": "Faber",
 			"partei": "FDP",
 			"twitter": "MarcusFaber",
-			"websiteurl": "https://www.fdp.de/kandidat/marcus-faber"
+			"websiteurl": "https://mfaber.abgeordnete.fdpbt.de/"
 	},
 	{
 			"vorname": "Yasmin",
@@ -1347,7 +1347,7 @@
 			"vorname": "Thomas",
 			"nachname": "Hacker",
 			"partei": "FDP",
-			"websiteurl": "https://www.fdp.de/kandidat/thomas-hacker"
+			"websiteurl": "https://thacker.abgeordnete.fdpbt.de/"
 	},
 	{
 			"vorname": "Bettina",
@@ -1420,7 +1420,7 @@
 			"vorname": "Mariana",
 			"nachname": "Harder-Kühnel",
 			"partei": "AFD",
-			"websiteurl": "http://www.afd-hessen.org/unsere-kandidaten/kandidatenprofil-mariana-harder-kuehnel/"
+			"websiteurl": "https://www.mariana-harder-kuehnel.de/"
 	},
 	{
 			"vorname": "Jürgen ",
@@ -1600,7 +1600,7 @@
 			"vorname": "Markus",
 			"nachname": "Herbrand",
 			"partei": "FDP",
-			"websiteurl": "https://www.fdp.de/kandidat/markus-herbrand"
+			"websiteurl": "https://mherbrand.abgeordnete.fdpbt.de/"
 	},
 	{
 			"vorname": "Torsten",
@@ -1794,7 +1794,7 @@
 			"nachname": "von Holtz",
 			"partei": "GRÜNE",
 			"facebook": "ottmarvonholtz",
-			"websiteurl": "http://www.vonholtz.de/home.html",
+			"websiteurl": "http://www.vonholtz.de/",
 			"websiterssurl": "http://www.vonholtz.de/home/rss.xml"
 	},
 	{
@@ -1809,7 +1809,7 @@
 			"nachname": "Houben",
 			"partei": "FDP",
 			"twitter": "HoubenReinhard",
-			"websiteurl": "https://www.fdp.de/kandidat/reinhard-houben"
+			"websiteurl": "https://www.reinhard-houben.de/"
 	},
 	{
 			"vorname": "Johannes",
@@ -2068,7 +2068,7 @@
 			"vorname": "Jens",
 			"nachname": "Kestner",
 			"partei": "AFD",
-			"websiteurl": "http://www.afd-northeim.de/index.php/kontakt/20-jens-kestner"
+			"websiteurl": "https://jenskestner.de/"
 	},
 	{
 			"vorname": "Katja",
@@ -2862,7 +2862,7 @@
 			"nachname": "Meyer",
 			"partei": "FDP",
 			"twitter": "ChristophFDP",
-			"websiteurl": "https://www.fdp.de/kandidat/christoph-meyer"
+			"websiteurl": "https://cmeyer.abgeordnete.fdpbt.de/"
 	},
 	{
 			"vorname": "Corina",
@@ -3068,7 +3068,7 @@
 			"vorname": "Roman",
 			"nachname": "Müller-Böhm",
 			"partei": "FDP",
-			"websiteurl": "https://www.fdp.de/kandidat/roman-mueller-boehm"
+			"websiteurl": "https://rmueller-boehm.abgeordnete.fdpbt.de/"
 	},
 	{
 			"vorname": "Beate",
@@ -4827,7 +4827,7 @@
 			"vorname": "Stefan",
 			"nachname": "Zierke",
 			"partei": "SPD",
-			"websiteurl": "http://www.stefan-zierke.de/stefan-zierke-spd/"
+			"websiteurl": "http://www.stefan-zierke.de/"
 	},
 	{
 			"vorname": "Mahias",
