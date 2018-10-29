@@ -1,0 +1,19 @@
+{
+  "name": "bf-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "pg": "^7.5.0",
+    "sequelize": "^4.41.0",
+    "sequelize-cli": "^5.2.0"
+  }
+}

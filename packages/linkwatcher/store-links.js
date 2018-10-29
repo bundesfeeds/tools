@@ -26,12 +26,16 @@ function initCrawler() {
         // Function to be evaluated in browsers
         evaluatePage: (() => ({})),
         onError: (err) => {
-            log.error(err);
+            log.error(err); 
         },
         onSuccess: (result => {
             // console.log(result)
             if (result.response.ok) {
-                storeLinks(db, result.options.url, result.links).catch(console.error).then(stored => {
+
+
+                let storeUrl = result.response.url || result.options.url
+
+                storeLinks(db, result.options.url, result.links).catch(log.error).then(stored => {
                     count++;
                     log.info('stored', result.options.url, result.links.length);
             
@@ -79,10 +83,11 @@ Promise.all([initCrawler(), initDb()]).then(result => {
                 log.info('queue status', queueSize, pendingQueueSize)
             });
         }
-        log.info('interval');
-        
+     
+        log.info('interval');   
         let bt = processRandomTen()
         .map(person => {
+        log.info('add to queue', person);
         return crawler
             .queue({url: person.websiteurl, maxDepth: 1, followSitemapXml: true, timout: 10})
             .catch(log.error)
