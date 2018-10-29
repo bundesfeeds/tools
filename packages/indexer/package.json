@@ -1,0 +1,17 @@
+{
+  "name": "indexer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bundesfeeds/bf-model": "^1.0.0",
+    "@bundesfeeds/bundestag-daten": "1.0.0",
+    "bunyan": "^1.8.12",
+    "headless-chrome-crawler": "^1.8.0"
+  }
+}

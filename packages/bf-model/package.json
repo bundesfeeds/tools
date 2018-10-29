@@ -1,5 +1,5 @@
 {
-  "name": "bf-model",
+  "name": "@bundesfeeds/bf-model",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
