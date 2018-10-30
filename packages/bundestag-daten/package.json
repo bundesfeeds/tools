@@ -8,10 +8,5 @@
   },
   "author": "Sebastian Schürmann",
   "license": "ISC",
-  "dependencies": {
-    "headless-chrome-crawler": "^1.8.0",
-    "puppeteer": "^1.9.0",
-    "rss-watcher": "^1.4.0",
-    "website-scraper": "^3.3.7"
-  }
+  "dependencies": {}
 }
